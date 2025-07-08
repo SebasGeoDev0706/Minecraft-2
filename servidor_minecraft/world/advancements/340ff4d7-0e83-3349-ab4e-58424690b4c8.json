@@ -105,7 +105,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-08 07:02:37 +0000",
-      "minecraft:witch": "2025-07-08 06:55:27 +0000"
+      "minecraft:witch": "2025-07-08 06:55:27 +0000",
+      "minecraft:zombie": "2025-07-08 07:30:16 +0000"
     },
     "done": false
   },
@@ -178,77 +179,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "mca:recipes/misc/comb": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 07:20:23 +0000"
+      "has_item": "2025-07-08 07:34:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "mca:recipes/misc/needle_and_thread": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 07:20:23 +0000"
+      "has_item": "2025-07-08 07:34:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "nova_structures:adventure/tavern_quest": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 07:20:23 +0000"
+      "open_tavern_chest": "2025-07-08 07:31:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "mca:recipes/misc/whistle": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 07:20:23 +0000"
+      "has_item": "2025-07-08 07:34:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 07:20:23 +0000"
+      "iron": "2025-07-08 07:34:09 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 07:20:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 07:20:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 07:20:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 07:20:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 07:20:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 07:20:23 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 07:20:23 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
