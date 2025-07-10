@@ -1461,3 +1461,70 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [10Jul2025 06:06:31.676] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=127, y=26, z=-708}
 [10Jul2025 06:06:31.676] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=127, y=-22, z=-709}
 [10Jul2025 06:06:38.278] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=47, y=-14, z=-728}
+[10Jul2025 06:06:39.351] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-167, y=22, z=-735}
+[10Jul2025 06:06:39.743] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=70, y=-51, z=-736}
+[10Jul2025 06:06:39.745] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=110, y=11, z=-727}
+[10Jul2025 06:06:39.748] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=156, y=-19, z=-725}
+[10Jul2025 06:07:51.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Stone Age]
+[10Jul2025 06:07:59.573] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-280, y=21, z=-160}
+[10Jul2025 06:08:43.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Set the time to 13000]
+[10Jul2025 06:08:44.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 💀 A bloodmoon is rising... Beware of the monsters... 💀
+[10Jul2025 06:09:24.140] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[10Jul2025 06:09:24.145] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[10Jul2025 06:09:31.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Spider
+[10Jul2025 06:09:31.594] [Server thread/WARN] [tombstone/]: The drop event of the player TerroncitoTroll was canceled by another mod
+[10Jul2025 06:09:45.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a
+[10Jul2025 06:09:57.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has reached the goal [Here They Come]
+[10Jul2025 06:10:01.975] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[10Jul2025 06:10:01.983] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[10Jul2025 06:10:09.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was shot by Arrow
+[10Jul2025 06:10:09.034] [Server thread/WARN] [tombstone/]: The drop event of the player TerroncitoTroll was canceled by another mod
+[10Jul2025 06:10:09.040] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[10Jul2025 06:10:24.139] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-261, y=23, z=-38}
+[10Jul2025 06:11:50.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Set own game mode to Creative Mode]
+[10Jul2025 06:12:06.282] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['TerroncitoTroll'/26134, l='ServerLevel[Mundo nuevo]', x=54.42, y=107.00, z=-274.12] died: TerroncitoTroll's Zombie was slain by TerroncitoTroll
+[10Jul2025 06:12:06.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Knowledge of Death]
+[10Jul2025 06:12:06.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [A Strange Grave Dust]
+[10Jul2025 06:12:20.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Set own game mode to Survival Mode]
+[10Jul2025 06:12:30.690] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[10Jul2025 06:12:30.698] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[10Jul2025 06:12:43.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie Horse
+[10Jul2025 06:12:43.646] [Server thread/WARN] [tombstone/]: The drop event of the player TerroncitoTroll was canceled by another mod
+[10Jul2025 06:13:05.777] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[10Jul2025 06:13:05.790] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[10Jul2025 06:13:13.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has reached the goal [Chain Death]
+[10Jul2025 06:13:13.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie Horse
+[10Jul2025 06:13:13.185] [Server thread/WARN] [tombstone/]: The drop event of the player TerroncitoTroll was canceled by another mod
+[10Jul2025 06:13:32.278] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-278, y=33, z=131}
+[10Jul2025 06:13:34.721] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-293, y=-39, z=-9}
+[10Jul2025 06:13:35.021] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-293, y=20, z=109}
+[10Jul2025 06:13:39.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-309, y=-3, z=-195}
+[10Jul2025 06:13:51.573] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-366, y=-6, z=42}
+[10Jul2025 06:14:01.919] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-414, y=-54, z=5}
+[10Jul2025 06:14:05.627] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-422, y=-43, z=64}
+[10Jul2025 06:14:13.219] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-476, y=-40, z=-16}
+[10Jul2025 06:14:23.177] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-506, y=29, z=-79}
+[10Jul2025 06:14:40.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-556, y=-14, z=43}
+[10Jul2025 06:14:43.325] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-499, y=-10, z=188}
+[10Jul2025 06:14:45.824] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-570, y=-23, z=175}
+[10Jul2025 06:14:54.971] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-595, y=-26, z=-158}
+[10Jul2025 06:14:55.941] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-602, y=14, z=176}
+[10Jul2025 06:15:01.437] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-613, y=6, z=131}
+[10Jul2025 06:15:08.274] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-633, y=5, z=177}
+[10Jul2025 06:15:09.941] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-647, y=-30, z=185}
+[10Jul2025 06:15:09.943] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-649, y=-35, z=202}
+[10Jul2025 06:15:09.943] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-653, y=-35, z=206}
+[10Jul2025 06:15:14.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-668, y=-35, z=185}
+[10Jul2025 06:15:14.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-670, y=-35, z=183}
+[10Jul2025 06:15:19.125] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-680, y=29, z=-210}
+[10Jul2025 06:15:19.125] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-683, y=-17, z=-219}
+[10Jul2025 06:15:23.530] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-307, y=-20, z=209}
+[10Jul2025 06:15:23.532] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-328, y=-6, z=215}
+[10Jul2025 06:15:23.726] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-357, y=-18, z=209}
+[10Jul2025 06:15:33.739] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-721, y=-5, z=-45}
+[10Jul2025 06:15:35.734] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[10Jul2025 06:15:35.741] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[10Jul2025 06:15:39.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-749, y=27, z=212}
+[10Jul2025 06:15:41.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie Horse
+[10Jul2025 06:16:06.074] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=30, y=-46, z=275}
+[10Jul2025 06:16:06.077] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=82, y=-24, z=284}
