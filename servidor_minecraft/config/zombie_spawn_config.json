@@ -1,0 +1,17 @@
+{
+  "spawnSettings": {
+    "minSpawnCount": 3,
+    "maxSpawnCount": 3,
+    "spawnChance": 50,
+    "maxZombiesPerPlayer": 25,
+    "minZombieSpawnDistance": 10,
+    "maxZombieSpawnDistance": 50
+  },
+  "validSpawnBlocks": [
+    "minecraft:grass_block",
+    "minecraft:dirt",
+    "minecraft:sand",
+    "minecraft:snow",
+    "minecraft:snow_block"
+  ]
+}
