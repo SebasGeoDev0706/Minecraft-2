@@ -76,6 +76,9 @@
       "minecraft:beach": "2025-07-11 08:18:48 +0000",
       "minecraft:lukewarm_ocean": "2025-07-11 08:47:34 +0000",
       "minecraft:river": "2025-07-11 09:01:27 +0000",
+      "minecraft:jungle": "2025-07-11 09:17:59 +0000",
+      "minecraft:ocean": "2025-07-11 09:22:27 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-11 09:20:30 +0000",
       "minecraft:savanna": "2025-07-11 08:18:30 +0000",
       "minecraft:plains": "2025-07-11 09:02:01 +0000"
     },
@@ -111,70 +114,6 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-07-11 09:12:14 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/comb": {
-    "criteria": {
-      "has_item": "2025-07-11 08:53:42 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 08:57:35 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "deciduous_forest": "2025-07-11 09:01:51 +0000",
-      "grassland": "2025-07-11 09:02:00 +0000",
-      "redwoods": "2025-07-11 09:07:25 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2025-07-11 08:57:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-07-11 08:49:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-07-11 08:50:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-07-11 08:53:42 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "deciduous_forest": "2025-07-11 09:01:51 +0000",
-      "grassland": "2025-07-11 09:02:00 +0000",
-      "redwoods": "2025-07-11 09:07:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-07-11 09:10:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-07-11 08:38:39 +0000"
@@ -183,6 +122,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-11 09:17:01 +0000",
       "minecraft:zombie": "2025-07-11 08:38:39 +0000"
     },
     "done": false
@@ -193,9 +133,50 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_dust": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "has_ingredient": "2025-07-11 08:58:27 +0000"
+      "apple": "2025-07-11 08:49:01 +0000",
+      "mutton": "2025-07-11 09:12:03 +0000",
+      "bread": "2025-07-11 08:49:45 +0000",
+      "rotten_flesh": "2025-07-11 08:53:32 +0000",
+      "salmon": "2025-07-11 08:47:35 +0000",
+      "melon_slice": "2025-07-11 09:20:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-11 08:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-11 08:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-11 08:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-11 08:50:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-07-11 08:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-11 08:53:42 +0000"
     },
     "done": true
   },
@@ -205,25 +186,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
+  "mca:recipes/misc/whistle": {
     "criteria": {
-      "coded_trigger": "2025-07-11 08:57:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "apple": "2025-07-11 08:49:01 +0000",
-      "mutton": "2025-07-11 09:12:03 +0000",
-      "bread": "2025-07-11 08:49:45 +0000",
-      "rotten_flesh": "2025-07-11 08:53:32 +0000",
-      "salmon": "2025-07-11 08:47:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-07-11 08:47:35 +0000"
+      "has_item": "2025-07-11 08:53:42 +0000"
     },
     "done": true
   },
@@ -239,29 +204,83 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 08:57:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-07-11 08:57:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 08:57:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-07-11 08:58:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "deciduous_forest": "2025-07-11 09:01:51 +0000",
+      "towering_cliffs": "2025-07-11 09:23:49 +0000",
+      "grassland": "2025-07-11 09:02:00 +0000",
+      "redwoods": "2025-07-11 09:07:25 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "deciduous_forest": "2025-07-11 09:01:51 +0000",
+      "towering_cliffs": "2025-07-11 09:23:49 +0000",
+      "grassland": "2025-07-11 09:02:00 +0000",
+      "redwoods": "2025-07-11 09:07:25 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "small_oak_log": "2025-07-11 09:01:55 +0000"
     },
     "done": false
   },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-07-11 08:49:52 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/whistle": {
-    "criteria": {
-      "has_item": "2025-07-11 08:53:42 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-07-11 09:07:58 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-11 09:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-11 09:12:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 09:17:01 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_ocean": "2025-07-11 09:20:03 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
