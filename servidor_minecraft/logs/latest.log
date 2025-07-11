@@ -1457,3 +1457,112 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jul2025 08:55:30.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a si deja invito a beli
 [11Jul2025 08:55:30.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q chingaos causa el lag we
 [11Jul2025 08:55:30.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34934ms or 698 ticks behind
+[11Jul2025 08:55:44.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> checa en la consola a veces sale
+[11Jul2025 08:57:04.578] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[11Jul2025 08:57:04.594] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[11Jul2025 08:57:07.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> Xd
+[11Jul2025 08:57:07.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> aaaa
+[11Jul2025 08:57:16.727] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[11Jul2025 08:57:16.735] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[11Jul2025 08:57:20.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> o q la
+[11Jul2025 08:57:25.890] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[11Jul2025 08:57:25.900] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[11Jul2025 08:57:28.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> xd
+[11Jul2025 08:57:31.230] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-33, y=-48, z=273}
+[11Jul2025 08:57:31.373] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-202, y=-50, z=277}
+[11Jul2025 08:57:33.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[11Jul2025 08:57:33.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Your First Grave]
+[11Jul2025 08:57:34.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[11Jul2025 08:57:34.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Your First Grave]
+[11Jul2025 08:57:38.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[11Jul2025 08:57:39.027] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-343, y=-42, z=-267}
+[11Jul2025 08:57:58.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has reached the goal [Here They Come]
+[11Jul2025 08:58:00.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has reached the goal [Here They Come]
+[11Jul2025 08:58:00.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Monster Hunter]
+[11Jul2025 08:58:20.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> qres carne de merco
+[11Jul2025 08:58:24.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nah
+[11Jul2025 08:58:28.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya me mori
+[11Jul2025 08:58:31.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> te echaste un pedo
+[11Jul2025 08:58:39.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q tienes en la cabeza
+[11Jul2025 08:58:47.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> xd
+[11Jul2025 08:58:53.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> cojin bromista
+[11Jul2025 08:58:56.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> okey ya tuve suficiente
+[11Jul2025 08:59:02.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> aca esta tu bromira
+[11Jul2025 08:59:30.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX moved too quickly! 9.501987753779822,-2.5016000115871435,-3.1603118410266884
+[11Jul2025 08:59:30.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved too quickly! 9.31114204369391,2.176759275064242,-2.9971547729082695
+[11Jul2025 08:59:30.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2677ms or 53 ticks behind
+[11Jul2025 08:59:32.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no hay webos
+[11Jul2025 08:59:53.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved too quickly! 9.796590781473718,0.07242780368044066,2.7699862127931945
+[11Jul2025 08:59:53.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX moved too quickly! 0.634414145117213,9.167709183118177,-4.280310947839048
+[11Jul2025 08:59:53.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> uf
+[11Jul2025 08:59:53.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q lagazo
+[11Jul2025 08:59:57.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11864ms or 237 ticks behind
+[11Jul2025 09:00:01.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> xd
+[11Jul2025 09:00:05.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> EL LAG LA BORRO
+[11Jul2025 09:00:11.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> o espera
+[11Jul2025 09:00:13.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX lost connection: Disconnected
+[11Jul2025 09:00:13.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX left the game
+[11Jul2025 09:00:14.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> [08:59:57] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 11864ms or 237 ticks behind
+[11Jul2025 09:00:23.720] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KekinX is 82696d49-acbf-46fc-9653-93cc5b790916
+[11Jul2025 09:00:30.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KekinX[/127.193.100.132:59007] logged in with entity id 9333 at (5.892225916428941, 80.0, -7.216314225764711)
+[11Jul2025 09:00:30.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX joined the game
+[11Jul2025 09:00:30.328] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KekinX (82696d49-acbf-46fc-9653-93cc5b790916)
+[11Jul2025 09:00:35.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no me sale pq we
+[11Jul2025 09:00:37.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> solo me salio [08:59:57] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 11864ms or 237 ticks behind
+[11Jul2025 09:00:42.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a si
+[11Jul2025 09:00:48.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> quien sabe
+[11Jul2025 09:00:49.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Nothing Built Can Last Forever]
+[11Jul2025 09:00:56.662] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[11Jul2025 09:00:56.707] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[11Jul2025 09:00:58.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[11Jul2025 09:01:06.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me trono en la cara we
+[11Jul2025 09:01:23.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no despawnea vdd
+[11Jul2025 09:01:24.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no puedo correr
+[11Jul2025 09:01:27.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nopw
+[11Jul2025 09:01:45.277] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=132, y=23, z=295}
+[11Jul2025 09:01:45.717] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=224, y=13, z=289}
+[11Jul2025 09:01:50.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-115, y=4, z=310}
+[11Jul2025 09:01:50.599] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=114, y=34, z=315}
+[11Jul2025 09:01:53.529] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=58, y=-32, z=326}
+[11Jul2025 09:01:53.788] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-108, y=-29, z=335}
+[11Jul2025 09:01:53.788] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-109, y=33, z=331}
+[11Jul2025 09:01:53.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11Jul2025 09:02:19.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved too quickly! 7.013293616757792,-0.02442408821369213,7.22774353573422
+[11Jul2025 09:02:19.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> otra vez alv
+[11Jul2025 09:02:22.041] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-101, y=34, z=353}
+[11Jul2025 09:02:25.906] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-6, y=-7, z=378}
+[11Jul2025 09:02:26.298] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=66, y=39, z=376}
+[11Jul2025 09:02:33.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24134ms or 482 ticks behind
+[11Jul2025 09:02:33.825] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=131, y=-51, z=384}
+[11Jul2025 09:02:37.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> fortaleza de cazadores de vampiros
+[11Jul2025 09:02:37.998] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-38, y=-13, z=414}
+[11Jul2025 09:02:41.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=27, y=7, z=427}
+[11Jul2025 09:02:42.384] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=141, y=33, z=419}
+[11Jul2025 09:02:46.579] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=185, y=-34, z=435}
+[11Jul2025 09:02:54.729] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=299, y=-35, z=67}
+[11Jul2025 09:02:57.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9421ms or 188 ticks behind
+[11Jul2025 09:02:58.173] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=310, y=-49, z=134}
+[11Jul2025 09:02:58.258] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=318, y=-33, z=148}
+[11Jul2025 09:03:04.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya nos alcanzo?
+[11Jul2025 09:03:16.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4358ms or 87 ticks behind
+[11Jul2025 09:03:17.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no lo se
+[11Jul2025 09:03:17.223] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=324, y=-4, z=87}
+[11Jul2025 09:03:24.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a el mini mapa nop'
+[11Jul2025 09:03:35.396] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=352, y=20, z=0}
+[11Jul2025 09:03:38.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[11Jul2025 09:03:58.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[11Jul2025 09:04:05.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> encontre la pocion de oblvn
+[11Jul2025 09:04:14.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> cual es esa?
+[11Jul2025 09:04:30.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX moved too quickly! 3.3382813138573795,-0.2522033402537289,9.451863496865627
+[11Jul2025 09:04:30.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved too quickly! 5.6331552959883595,2.1416851727245216,8.400777489206718
+[11Jul2025 09:04:30.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> wacha
+[11Jul2025 09:04:30.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14710ms or 294 ticks behind
+[11Jul2025 09:04:36.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=412, y=-1, z=111}
+[11Jul2025 09:04:37.318] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=393, y=20, z=412}
+[11Jul2025 09:04:37.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ontas
+[11Jul2025 09:05:16.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved too quickly! 9.254867979199048,3.580000013113022,-1.8659875888747877
+[11Jul2025 09:05:16.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> montaña
+[11Jul2025 09:05:16.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> estas flotando
+[11Jul2025 09:05:16.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> o dios el lag
+[11Jul2025 09:05:23.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37191ms or 743 ticks behind
+[11Jul2025 09:05:31.198] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=423, y=-46, z=217}
