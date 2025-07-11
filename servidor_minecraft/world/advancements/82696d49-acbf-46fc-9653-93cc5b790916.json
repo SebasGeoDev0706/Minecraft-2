@@ -183,20 +183,26 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "pine_taiga": "2025-07-11 09:53:39 +0000",
+      "grassy_beach": "2025-07-11 09:57:23 +0000",
+      "magnolia_highlands": "2025-07-11 09:57:22 +0000",
       "deciduous_forest": "2025-07-11 09:05:28 +0000",
       "towering_cliffs": "2025-07-11 09:23:50 +0000",
       "grassland": "2025-07-11 09:02:42 +0000",
-      "redwoods": "2025-07-11 09:09:08 +0000"
+      "redwoods": "2025-07-11 09:09:08 +0000",
+      "lupine_plains": "2025-07-11 09:57:06 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "pine_taiga": "2025-07-11 09:53:39 +0000",
+      "grassy_beach": "2025-07-11 09:57:23 +0000",
+      "magnolia_highlands": "2025-07-11 09:57:22 +0000",
       "deciduous_forest": "2025-07-11 09:05:28 +0000",
       "towering_cliffs": "2025-07-11 09:23:50 +0000",
       "grassland": "2025-07-11 09:02:42 +0000",
-      "redwoods": "2025-07-11 09:09:08 +0000"
+      "redwoods": "2025-07-11 09:09:08 +0000",
+      "lupine_plains": "2025-07-11 09:57:06 +0000"
     },
     "done": false
   },
@@ -283,6 +289,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-07-11 09:37:59 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/escape_wither_storm": {
+    "criteria": {
+      "escape_wither_storm": "2025-07-11 10:07:16 +0000"
     },
     "done": true
   },

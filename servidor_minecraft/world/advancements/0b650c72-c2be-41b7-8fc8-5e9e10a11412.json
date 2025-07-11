@@ -142,7 +142,8 @@
       "bread": "2025-07-11 08:49:45 +0000",
       "rotten_flesh": "2025-07-11 08:53:32 +0000",
       "salmon": "2025-07-11 08:47:35 +0000",
-      "melon_slice": "2025-07-11 09:20:06 +0000"
+      "melon_slice": "2025-07-11 09:20:06 +0000",
+      "cod": "2025-07-11 10:02:18 +0000"
     },
     "done": false
   },
@@ -237,7 +238,8 @@
       "deciduous_forest": "2025-07-11 09:01:51 +0000",
       "towering_cliffs": "2025-07-11 09:23:49 +0000",
       "grassland": "2025-07-11 09:02:00 +0000",
-      "redwoods": "2025-07-11 09:07:25 +0000"
+      "redwoods": "2025-07-11 09:07:25 +0000",
+      "lupine_plains": "2025-07-11 09:57:17 +0000"
     },
     "done": false
   },
@@ -248,7 +250,8 @@
       "deciduous_forest": "2025-07-11 09:01:51 +0000",
       "towering_cliffs": "2025-07-11 09:23:49 +0000",
       "grassland": "2025-07-11 09:02:00 +0000",
-      "redwoods": "2025-07-11 09:07:25 +0000"
+      "redwoods": "2025-07-11 09:07:25 +0000",
+      "lupine_plains": "2025-07-11 09:57:17 +0000"
     },
     "done": false
   },
@@ -327,6 +330,24 @@
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-07-11 09:45:00 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/escape_wither_storm": {
+    "criteria": {
+      "escape_wither_storm": "2025-07-11 10:06:49 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-07-11 10:01:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 10:04:30 +0000"
     },
     "done": true
   },
