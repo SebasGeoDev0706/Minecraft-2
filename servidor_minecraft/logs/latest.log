@@ -1403,3 +1403,57 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jul2025 08:44:30.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> yf
 [11Jul2025 08:44:30.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6514ms or 130 ticks behind
 [11Jul2025 08:44:36.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dios
+[11Jul2025 08:45:30.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5816ms or 116 ticks behind
+[11Jul2025 08:46:15.195] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KekinX is 82696d49-acbf-46fc-9653-93cc5b790916
+[11Jul2025 08:46:30.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17315ms or 346 ticks behind
+[11Jul2025 08:46:30.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a
+[11Jul2025 08:46:37.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KekinX[/127.193.100.132:58041] logged in with entity id 4073 at (-112.5, 78.0, -25.5)
+[11Jul2025 08:46:37.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX joined the game
+[11Jul2025 08:46:37.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Ice and Fire]
+[11Jul2025 08:46:37.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Monsters And Girls Update]
+[11Jul2025 08:46:41.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> hola
+[11Jul2025 08:46:49.880] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KekinX (82696d49-acbf-46fc-9653-93cc5b790916)
+[11Jul2025 08:47:30.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved too quickly! -6.588396442150862,0.7967356006687112,-7.582116347707468
+[11Jul2025 08:47:30.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35063ms or 701 ticks behind
+[11Jul2025 08:47:31.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> segun yo habia un mod pa cambiar el nick
+[11Jul2025 08:47:31.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> es lag?
+[11Jul2025 08:47:39.872] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-375, y=24, z=-74}
+[11Jul2025 08:47:55.173] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-427, y=27, z=26}
+[11Jul2025 08:47:58.376] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-359, y=-47, z=224}
+[11Jul2025 08:48:01.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> se te lagueo o noma ami
+[11Jul2025 08:48:11.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> si
+[11Jul2025 08:48:54.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya estamos seguros?
+[11Jul2025 08:48:55.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ay
+[11Jul2025 08:48:57.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ya
+[11Jul2025 08:49:20.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Stone Age]
+[11Jul2025 08:49:20.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a con razon dije pq me va a 50 y 60
+[11Jul2025 08:49:30.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> tenia el vysinc
+[11Jul2025 08:49:56.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> toma
+[11Jul2025 08:50:11.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Getting an Upgrade]
+[11Jul2025 08:50:13.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> xD
+[11Jul2025 08:50:22.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pasa piedra
+[11Jul2025 08:50:28.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> y como q compartimos mesa
+[11Jul2025 08:50:28.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> te di
+[11Jul2025 08:50:33.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> non solo made
+[11Jul2025 08:50:45.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Stone Age]
+[11Jul2025 08:50:49.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Getting an Upgrade]
+[11Jul2025 08:51:03.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> estoy a 2 cora y meedio
+[11Jul2025 08:51:34.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a tu confi me la ponia mal con razon
+[11Jul2025 08:52:15.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> un momento me acabo de dar cuenta del mini yo
+[11Jul2025 08:52:36.720] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED 2c1fbb35-8b14-45c8-b635-bf0c74bf4212
+[11Jul2025 08:53:30.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> lag?
+[11Jul2025 08:53:30.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18148ms or 362 ticks behind
+[11Jul2025 08:53:33.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> si
+[11Jul2025 08:53:42.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Acquire Hardware]
+[11Jul2025 08:53:47.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Knowledge of Death]
+[11Jul2025 08:53:47.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Ashes 'n Bones]
+[11Jul2025 08:54:30.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX moved too quickly! -2.2789284136834596,9.247796659746271,3.2858184556201993
+[11Jul2025 08:54:30.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ola diablo
+[11Jul2025 08:54:30.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ostras de nuevo
+[11Jul2025 08:54:30.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35655ms or 713 ticks behind
+[11Jul2025 08:54:37.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Spooky Scary Skeleton]
+[11Jul2025 08:54:43.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> bu
+[11Jul2025 08:55:30.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved too quickly! -9.211710330004227,2.619976325604469,-3.3754721939706354
+[11Jul2025 08:55:30.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a si deja invito a beli
+[11Jul2025 08:55:30.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q chingaos causa el lag we
+[11Jul2025 08:55:30.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34934ms or 698 ticks behind

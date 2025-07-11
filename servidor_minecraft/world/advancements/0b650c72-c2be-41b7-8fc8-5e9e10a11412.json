@@ -74,6 +74,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-07-11 08:18:48 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-11 08:47:34 +0000",
       "minecraft:savanna": "2025-07-11 08:18:30 +0000"
     },
     "done": false
@@ -108,6 +109,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-11 08:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-11 08:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-07-11 08:38:39 +0000"
@@ -123,6 +136,26 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-07-11 08:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-07-11 08:49:01 +0000",
+      "bread": "2025-07-11 08:49:45 +0000",
+      "salmon": "2025-07-11 08:47:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-11 08:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-11 08:49:52 +0000"
     },
     "done": true
   },
