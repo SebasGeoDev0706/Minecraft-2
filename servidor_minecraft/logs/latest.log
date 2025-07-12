@@ -2016,3 +2016,138 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jul2025 23:05:19.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> yo no se donde estoy
 [12Jul2025 23:05:20.528] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 28 DISCARDED 8c0d461b-0d85-401f-b8bb-34ce578ca027
 [12Jul2025 23:05:21.009] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 27 DISCARDED 3252f2a1-e4aa-42ef-be40-94405266f887
+[12Jul2025 23:05:24.245] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 26 DISCARDED 2a82b725-28a8-4385-b96c-bdf719c50999
+[12Jul2025 23:05:24.660] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 25 DISCARDED e5abc82a-2c6c-4c97-87e9-e606ac1f58e0
+[12Jul2025 23:05:26.642] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 24 DISCARDED de891f3c-acb5-46ff-9e66-b966a7f5d7b7
+[12Jul2025 23:05:30.192] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 23 DISCARDED 5b377dd7-85a0-4507-899c-a8f07334cbdb
+[12Jul2025 23:05:40.565] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 22 DISCARDED d9fd1091-5929-447c-8366-a55f1393479d
+[12Jul2025 23:05:46.759] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 21 KILLED 1a3c3495-b9fe-41a4-a784-667bd970538e
+[12Jul2025 23:05:47.089] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 20 DISCARDED 30dce563-f82c-49ee-acf5-f2c68ae2eff4
+[12Jul2025 23:05:48.037] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 19 DISCARDED 2844260c-6b31-4847-9114-61986453bb70
+[12Jul2025 23:06:05.452] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 48 DISCARDED 73a616a5-b46c-4947-8e79-392a71b7a6fe
+[12Jul2025 23:06:05.639] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 47 DISCARDED 15cf2864-7f16-4f61-9c8b-f06fb2289bf4
+[12Jul2025 23:06:07.051] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 46 DISCARDED a3eb61e9-4f3b-49ef-9c46-8cf88b73e984
+[12Jul2025 23:06:07.447] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 45 DISCARDED 714e67e6-e5ed-4b47-bc42-a533de64fed8
+[12Jul2025 23:06:09.170] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 44 DISCARDED c89f2178-724b-407a-ae81-44c4a0050ee5
+[12Jul2025 23:06:12.339] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 43 DISCARDED ce9c5641-f8ab-47b1-a875-85e54300b10c
+[12Jul2025 23:06:13.976] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 42 DISCARDED db695934-2dad-4b93-b05d-ddeeb99e9b92
+[12Jul2025 23:06:15.804] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 41 DISCARDED 10501f25-7634-4bcf-b503-bf6567f6cb1c
+[12Jul2025 23:06:19.526] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[12Jul2025 23:06:19.539] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[12Jul2025 23:06:19.951] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 40 DISCARDED be173cda-f58c-4148-af20-88d88555f1a5
+[12Jul2025 23:06:25.357] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 39 DISCARDED 76942b53-30de-4ad8-a048-0163cbca053e
+[12Jul2025 23:06:26.154] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 38 DISCARDED 09ca4b30-582b-46ff-add1-0f9b5658e3f4
+[12Jul2025 23:06:27.058] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 37 DISCARDED 3c7b9ef9-e949-43f5-8f29-b9fecee18da0
+[12Jul2025 23:06:41.462] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 36 DISCARDED a2a7feef-baba-480c-ae53-0f36316bc1a2
+[12Jul2025 23:07:00.953] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 35 DISCARDED 9ce7efb0-f31a-49d7-a034-e68e0a34f004
+[12Jul2025 23:07:09.675] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 34 DISCARDED 550274d6-7e7b-4d96-b6e4-84ccf602aded
+[12Jul2025 23:07:15.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Horde Zombie
+[12Jul2025 23:07:17.135] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 33 DISCARDED ec03caae-57fd-4a0f-92ac-546c6a60ccbd
+[12Jul2025 23:07:17.135] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 32 DISCARDED 1d79ed22-646a-4f61-92a4-b77acfb59991
+[12Jul2025 23:07:17.135] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 31 DISCARDED ea5efa37-10cc-4c69-a40b-89b015bf2259
+[12Jul2025 23:07:17.135] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 30 DISCARDED 0afa30f8-559a-4888-a47a-df17636beff8
+[12Jul2025 23:07:17.135] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 29 DISCARDED 221eee7b-881f-4367-bd43-d2fa1051b2c6
+[12Jul2025 23:07:17.135] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 28 DISCARDED 23fe2e58-efc1-4ce8-bfe2-b9000db6cdc5
+[12Jul2025 23:07:17.135] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 27 DISCARDED c77387d2-e305-471d-91c0-cdcbb12b5fd1
+[12Jul2025 23:07:17.135] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 26 DISCARDED a6352d0a-8d54-4440-8399-7bc3d079e5ab
+[12Jul2025 23:07:17.135] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 25 DISCARDED e99e12de-12cc-4bbe-a5b1-9d0b8fb91e30
+[12Jul2025 23:07:17.135] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 24 DISCARDED d915a29a-2b63-4fd2-94ff-fde1848950ab
+[12Jul2025 23:07:17.136] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 23 DISCARDED 4a282dfe-58c2-47c2-bc69-047d5409ceb0
+[12Jul2025 23:07:17.136] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 22 DISCARDED 1be28dc6-542c-4803-b2dc-221699c8ca5a
+[12Jul2025 23:07:17.136] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 21 DISCARDED 0b9fd9b0-1c2f-4c35-bd4b-d3a7c62e31fb
+[12Jul2025 23:07:19.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[12Jul2025 23:07:22.149] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 20 DISCARDED 237d3be1-b1c7-4155-9cf8-e9b4cf0b31ef
+[12Jul2025 23:07:26.896] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 19 DISCARDED 3f303d9d-cbcd-4e3b-a5e4-590cc0dd8a07
+[12Jul2025 23:07:34.661] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 18 DISCARDED 6d0834c0-9473-4ab3-99f4-e7665ece96e6
+[12Jul2025 23:07:41.648] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 17 DISCARDED 9d742f98-8093-476c-b7a3-93b6ea5d8df3
+[12Jul2025 23:07:53.199] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 16 DISCARDED 7b5c8412-a06b-449c-97c0-d009c0886e73
+[12Jul2025 23:07:53.277] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 15 DISCARDED ca47b2a1-3ecf-4b48-ad6e-19a93ddd1eaa
+[12Jul2025 23:08:04.298] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 14 DISCARDED 7bb8d0c2-b5f6-4e59-9e99-50f8a1c25ccd
+[12Jul2025 23:08:14.846] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 13 DISCARDED c3e94261-e647-4393-a3c0-313f768a2313
+[12Jul2025 23:08:15.657] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 23:08:15.683] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 23:08:18.902] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 12 DISCARDED d734849c-976a-4ea3-9622-df7b4ee5ac87
+[12Jul2025 23:08:21.929] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 23:08:22.948] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 11 DISCARDED 0a9e481b-6886-4bb4-80a1-ad8ea966bd25
+[12Jul2025 23:08:23.273] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 23:08:23.314] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 23:08:29.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After TerroncitoTroll was slain by Horde Zombie, they gave up
+[12Jul2025 23:08:30.296] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 10 DISCARDED 1b65e887-3f73-435c-9223-1eeac771b6b0
+[12Jul2025 23:08:30.296] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 9 DISCARDED f191c793-2e87-45e0-84c1-49b3caf28d2d
+[12Jul2025 23:08:30.296] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 8 DISCARDED 4845eef0-4d81-4651-bcee-5152b14218d6
+[12Jul2025 23:08:30.297] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 7 DISCARDED ac4fc3d8-7bbe-43d8-96d0-ed71f194d1ee
+[12Jul2025 23:08:30.297] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 6 DISCARDED 55dcd4ae-b0ab-453a-bee3-08add0546f2a
+[12Jul2025 23:08:30.297] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 5 DISCARDED 15b092ba-83d4-4457-a197-2296d23ae4c5
+[12Jul2025 23:08:30.297] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 DISCARDED f15b61ba-5d44-487f-a54a-c486fa63c425
+[12Jul2025 23:08:30.297] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 DISCARDED 7d5fc631-3d63-4dcd-a04a-19f8afa2c596
+[12Jul2025 23:08:30.297] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 DISCARDED 0e7ba2de-119c-4531-adaf-d7f184571468
+[12Jul2025 23:08:30.297] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED 2c2b970c-943e-488b-86d1-1de10dbb5214
+[12Jul2025 23:08:40.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> tengo la clase vampiro
+[12Jul2025 23:08:48.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll lost connection: Timed out
+[12Jul2025 23:08:48.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll left the game
+[12Jul2025 23:09:16.058] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TerroncitoTroll is 0b650c72-c2be-41b7-8fc8-5e9e10a11412
+[12Jul2025 23:09:26.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TerroncitoTroll[/127.153.250.51:56033] logged in with entity id 83214 at (0.3977882729209462, 77.0, 44.0258121113087)
+[12Jul2025 23:09:26.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll joined the game
+[12Jul2025 23:09:26.614] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412)
+[12Jul2025 23:09:56.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll lost connection: Timed out
+[12Jul2025 23:09:56.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll left the game
+[12Jul2025 23:10:30.298] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TerroncitoTroll is 0b650c72-c2be-41b7-8fc8-5e9e10a11412
+[12Jul2025 23:10:40.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TerroncitoTroll[/127.153.250.51:56129] logged in with entity id 83643 at (0.3977882729209462, 77.0, 44.0258121113087)
+[12Jul2025 23:10:40.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll joined the game
+[12Jul2025 23:10:40.412] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412)
+[12Jul2025 23:11:02.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ya me harte puto lag
+[12Jul2025 23:11:03.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> xd
+[12Jul2025 23:11:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> infitum exceso de pendejismo
+[12Jul2025 23:11:59.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me dejas chupartela
+[12Jul2025 23:12:04.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me muero
+[12Jul2025 23:12:35.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX lost connection: Timed out
+[12Jul2025 23:12:35.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX left the game
+[12Jul2025 23:17:02.418] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KekinX is 82696d49-acbf-46fc-9653-93cc5b790916
+[12Jul2025 23:17:08.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KekinX[/127.194.190.102:38219] logged in with entity id 86296 at (-2164.139301599887, 78.0, -2036.9992623372577)
+[12Jul2025 23:17:08.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX joined the game
+[12Jul2025 23:17:09.057] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (626 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=626, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[12Jul2025 23:17:09.060] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KekinX (82696d49-acbf-46fc-9653-93cc5b790916)
+[12Jul2025 23:18:48.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> aywey
+[12Jul2025 23:18:54.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q
+[12Jul2025 23:18:55.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> se me bajo a 12fps
+[12Jul2025 23:19:04.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> meh
+[12Jul2025 23:19:05.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a
+[12Jul2025 23:19:07.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> tenia que ser
+[12Jul2025 23:19:31.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12Jul2025 23:19:32.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dios
+[12Jul2025 23:19:34.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> encontre mi tumba
+[12Jul2025 23:19:51.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Jul2025 23:20:18.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[12Jul2025 23:20:40.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[12Jul2025 23:20:59.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Jul2025 23:21:10.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> esta el agua fria
+[12Jul2025 23:21:11.140] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 23:21:11.152] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 23:21:11.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> gg
+[12Jul2025 23:21:17.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[12Jul2025 23:21:18.625] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 23:21:20.051] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 23:21:20.103] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 23:21:26.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After TerroncitoTroll was slain by Husk, they gave up
+[12Jul2025 23:21:30.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> putos camperos
+[12Jul2025 23:22:04.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[12Jul2025 23:22:22.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Jul2025 23:22:40.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2723ms or 54 ticks behind
+[12Jul2025 23:22:57.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[12Jul2025 23:23:14.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[12Jul2025 23:23:28.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> mendigos camperos
+[12Jul2025 23:23:32.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12Jul2025 23:23:43.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> el ping normalmente de sebas troll: 1000, pasa una nube, el ping de sebas troll: 1/0
+[12Jul2025 23:23:49.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12Jul2025 23:23:50.152] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 DISCARDED 705dce80-38af-4c17-8742-44f6982a5704
+[12Jul2025 23:24:06.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
+[12Jul2025 23:24:07.351] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED 9f670484-e35f-4ef5-a229-2e53d84dc1d3
+[12Jul2025 23:24:24.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
+[12Jul2025 23:24:41.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[12Jul2025 23:24:47.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> soy un trol face
+[12Jul2025 23:24:58.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[12Jul2025 23:25:16.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2779ms or 55 ticks behind
+[12Jul2025 23:25:21.185] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED 5ae3ff69-baa3-4a6d-b1a1-ce333fd2ae96
+[12Jul2025 23:25:22.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> water drop
+[12Jul2025 23:25:34.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[12Jul2025 23:25:35.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> AY un cora
