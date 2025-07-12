@@ -11759,3 +11759,67 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jul2025 10:20:48.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> bueno te pueden tocar con traps
 [12Jul2025 10:21:31.243] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-229, y=-18, z=-1912}
 [12Jul2025 10:21:34.165] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-332, y=-13, z=-1845}
+[12Jul2025 10:21:59.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> oh dice que estas cerca de mi
+[12Jul2025 10:22:05.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> el warden puede spawnear en caulquier parte vdd
+[12Jul2025 10:22:08.429] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[12Jul2025 10:22:12.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> simon
+[12Jul2025 10:22:20.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> we esq una runa me hizo tp a sepa donde
+[12Jul2025 10:22:33.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> wey que gracioso con unos 15 guizantes se muere el warden
+[12Jul2025 10:22:46.123] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED e0493d4e-f1a0-4fdd-9276-a50e5a0008f3
+[12Jul2025 10:22:50.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[12Jul2025 10:22:50.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[12Jul2025 10:22:53.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> creo que abajo de donde estoy esta la ancient
+[12Jul2025 10:23:04.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> iria pero es de night
+[12Jul2025 10:23:45.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a ver a donde me lleva la runa ahora
+[12Jul2025 10:24:02.075] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 10:24:02.086] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 10:24:10.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> f
+[12Jul2025 10:24:10.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has completed the challenge [Free Willy]
+[12Jul2025 10:24:11.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> vtlv
+[12Jul2025 10:24:18.424] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[12Jul2025 10:24:39.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll bled to death after being bitten by Zombie
+[12Jul2025 10:24:39.188] [Server thread/DEBUG] [tombstone/]: A new grave of the player TerroncitoTroll was created at position [x:-608, y:-12, z:-1811, dim:minecraft:overworld]
+[12Jul2025 10:24:39.192] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 10:24:42.993] [Server thread/DEBUG] [twilightforest/]: Player TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412) respawned and received items held in storage
+[12Jul2025 10:24:53.544] [Worker-Main-13/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 5.756s
+[12Jul2025 10:25:00.937] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 DISCARDED f070e3ba-0f6c-44bf-be05-fe8f86491b4f
+[12Jul2025 10:25:14.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> estoy bn pinche lejos
+[12Jul2025 10:25:28.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> te hubieras dormido cercas
+[12Jul2025 10:25:34.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dormi cerca
+[12Jul2025 10:25:38.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pero bajo tierra
+[12Jul2025 10:25:44.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> y la runa me llevo al exterior
+[12Jul2025 10:25:51.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> xd trolliado
+[12Jul2025 10:26:09.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> atrapada
+[12Jul2025 10:26:27.071] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED 33c8dcda-144d-43e4-8bfb-f0a0b99e8c98
+[12Jul2025 10:26:36.019] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[12Jul2025 10:26:36.034] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[12Jul2025 10:26:41.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Horde Zombie
+[12Jul2025 10:26:42.213] [Server thread/DEBUG] [tombstone/]: A new grave of the player KekinX was created at position [x:-568, y:165, z:-1894, dim:minecraft:overworld]
+[12Jul2025 10:26:42.941] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 DISCARDED 34f93bc5-dcd1-46b4-836d-60dc53adaf4d
+[12Jul2025 10:26:43.509] [Server thread/DEBUG] [twilightforest/]: Player KekinX (82696d49-acbf-46fc-9653-93cc5b790916) respawned and received items held in storage
+[12Jul2025 10:27:12.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> quieresd recursos?
+[12Jul2025 10:27:20.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me hice tp
+[12Jul2025 10:27:26.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> mamon no me llevo al exterior
+[12Jul2025 10:27:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> deshonra....
+[12Jul2025 10:27:33.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> desgracia...
+[12Jul2025 10:27:35.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me llevo mas puto adentro de la ancient city
+[12Jul2025 10:27:50.403] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[12Jul2025 10:27:50.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[12Jul2025 10:27:50.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[12Jul2025 10:28:09.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> weee
+[12Jul2025 10:28:09.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> alv
+[12Jul2025 10:28:11.969] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 10:28:11.978] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 10:28:19.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was obliterated by a sonically-charged shriek
+[12Jul2025 10:28:19.037] [Server thread/DEBUG] [tombstone/]: A new grave of the player TerroncitoTroll was created at position [x:-608, y:-12, z:-1811, dim:minecraft:overworld]
+[12Jul2025 10:28:21.496] [Server thread/DEBUG] [twilightforest/]: Player TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412) respawned and received items held in storage
+[12Jul2025 10:28:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ay wey
+[12Jul2025 10:28:30.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [A Howling Discovery]
+[12Jul2025 10:28:31.271] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 5.878s
+[12Jul2025 10:28:44.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> mori donde mismo xd
+[12Jul2025 10:29:00.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> esta curioso
+[12Jul2025 10:29:27.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll lost connection: Disconnected
+[12Jul2025 10:29:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll left the game
+[12Jul2025 10:29:27.680] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jul2025 10:29:30.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> tengo mucho hierro
+[12Jul2025 10:31:42.415] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
