@@ -89,7 +89,8 @@
       "grassland": "2025-07-12 09:37:37 +0000",
       "prairie": "2025-07-12 09:37:07 +0000",
       "redwoods": "2025-07-12 10:54:55 +0000",
-      "rainforest": "2025-07-12 07:37:31 +0000"
+      "rainforest": "2025-07-12 07:37:31 +0000",
+      "bioshroom_caves": "2025-07-12 22:04:54 +0000"
     },
     "done": false
   },
@@ -352,7 +353,8 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-07-12 08:02:57 +0000",
-      "prismachasm": "2025-07-12 08:03:06 +0000"
+      "prismachasm": "2025-07-12 08:03:06 +0000",
+      "bioshroom_caves": "2025-07-12 22:04:54 +0000"
     },
     "done": false
   },
