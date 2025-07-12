@@ -1362,3 +1362,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jul2025 06:31:26.565] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-227, y=13, z=180}
 [12Jul2025 06:32:49.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Acquire Hardware]
 [12Jul2025 06:33:01.287] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-250, y=-50, z=-150}
+[12Jul2025 06:36:22.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Stone Age]
+[12Jul2025 06:38:50.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Getting an Upgrade]
+[12Jul2025 06:39:59.572] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KekinX is 82696d49-acbf-46fc-9653-93cc5b790916
+[12Jul2025 06:40:05.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KekinX[/127.193.100.132:44023] logged in with entity id 4057 at (-7.5, 79.0, 9.5)
+[12Jul2025 06:40:05.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX joined the game
+[12Jul2025 06:40:05.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Monsters And Girls Update]
+[12Jul2025 06:40:05.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Ice and Fire]
+[12Jul2025 06:40:16.091] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KekinX (82696d49-acbf-46fc-9653-93cc5b790916)
+[12Jul2025 06:40:16.379] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[12Jul2025 06:40:16.401] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[12Jul2025 06:40:19.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XDD
+[12Jul2025 06:40:28.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Teleported KekinX to TerroncitoTroll]
+[12Jul2025 06:40:33.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[12Jul2025 06:40:33.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Your First Grave]
+[12Jul2025 06:40:35.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pendejo
+[12Jul2025 06:40:47.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ten
+[12Jul2025 06:40:53.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Stone Age]
+[12Jul2025 06:41:07.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Getting an Upgrade]
+[12Jul2025 06:41:16.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> 120
+[12Jul2025 06:41:19.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> 130
+[12Jul2025 06:41:27.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pura kk
+[12Jul2025 06:41:51.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> saca las plantas
+[12Jul2025 06:42:11.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q negro
+[12Jul2025 06:42:45.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> lo puse lo mas negro posible alv
+[12Jul2025 06:42:51.473] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 5 KILLED b2f27cfd-0425-4805-8a99-96e56cc8f3b0
+[12Jul2025 06:42:53.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD el aire
+[12Jul2025 06:43:08.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: The difficulty has been set to Hard]
+[12Jul2025 06:43:12.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q weba de gameplay
+[12Jul2025 06:43:14.717] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 KILLED 043d0b82-167b-4367-b701-960fdc5f045e
+[12Jul2025 06:43:14.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Knowledge of Death]
+[12Jul2025 06:43:14.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Ashes 'n Bones]
+[12Jul2025 06:43:38.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Monster Hunter]
+[12Jul2025 06:43:42.770] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 KILLED 5ad09ca3-ba1c-4000-b250-267c9e6c7600
+[12Jul2025 06:43:48.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> quien lo puso
+[12Jul2025 06:43:51.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> que lo quite alv
+[12Jul2025 06:43:55.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> qye
+[12Jul2025 06:44:07.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> escucho musica
+[12Jul2025 06:44:12.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> por eso
+[12Jul2025 06:44:18.414] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED c2eeabb0-31b2-477c-a67d-a7d83b1b21d9
+[12Jul2025 06:44:22.971] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED 561373e6-6db3-4e3e-9454-e1d6eda3c8eb
+[12Jul2025 06:44:31.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> espera
+[12Jul2025 06:44:32.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> hay un zombie en mi jardin
+[12Jul2025 06:44:32.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX lost connection: Disconnected
+[12Jul2025 06:44:32.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX left the game
