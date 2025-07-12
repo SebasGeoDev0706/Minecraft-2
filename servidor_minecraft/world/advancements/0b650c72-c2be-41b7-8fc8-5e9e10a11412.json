@@ -408,11 +408,23 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-12 10:17:01 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "pillager_outpost": "2025-07-12 09:21:19 +0000"
     },
     "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-12 10:11:22 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/use_unstable_intangibility": {
     "criteria": {
@@ -432,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-12 10:16:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2025-07-12 09:33:33 +0000"
@@ -447,6 +465,12 @@
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2025-07-12 09:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-12 10:11:35 +0000"
     },
     "done": true
   },
