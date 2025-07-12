@@ -67,12 +67,14 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "outback": "2025-07-12 06:48:23 +0000",
       "saguaro_desert": "2025-07-12 06:21:34 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "outback": "2025-07-12 06:48:23 +0000",
       "saguaro_desert": "2025-07-12 06:21:34 +0000"
     },
     "done": false
@@ -107,6 +109,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-12 06:53:58 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-07-12 06:32:49 +0000"
@@ -116,6 +124,18 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-07-12 06:29:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-07-12 06:49:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 06:49:13 +0000"
     },
     "done": true
   },
@@ -149,6 +169,12 @@
     },
     "done": true
   },
+  "vampirism:main/root": {
+    "criteria": {
+      "second": "2025-07-12 06:56:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-07-12 06:29:13 +0000"
@@ -157,6 +183,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-07-12 06:43:00 +0000",
       "minecraft:zombie": "2025-07-12 06:29:13 +0000"
     },
     "done": false
@@ -191,6 +218,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 06:49:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-07-12 06:41:32 +0000",
@@ -199,9 +232,27 @@
     },
     "done": false
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-12 06:55:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-12 06:35:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 06:43:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 06:43:14 +0000"
     },
     "done": true
   },
