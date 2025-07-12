@@ -1366,3 +1366,79 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jul2025 08:34:42.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was turned into KFC by a dragon
 [12Jul2025 08:34:46.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XDD
 [12Jul2025 08:34:49.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> me caga ese dragon
+[12Jul2025 08:38:02.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> al fin recupere todo
+[12Jul2025 08:38:06.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pero si sirven las plantas de pvz?
+[12Jul2025 08:38:11.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> simon
+[12Jul2025 08:38:18.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pero ocuparemos bastantes
+[12Jul2025 08:38:31.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> por cierto ahora los zombies si evolucionan con los dias
+[12Jul2025 08:38:34.336] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1708, y=14, z=2413}
+[12Jul2025 08:38:43.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> mierda
+[12Jul2025 08:40:42.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Jul2025 08:41:38.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya podremos tener plantas nomas ocupasmos girasol vanilla
+[12Jul2025 08:41:46.925] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1883, y=-31, z=1897}
+[12Jul2025 08:42:05.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> oko
+[12Jul2025 08:42:20.989] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[12Jul2025 08:42:20.990] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[12Jul2025 08:42:29.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> verga
+[12Jul2025 08:42:34.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> encontre ancient city
+[12Jul2025 08:42:46.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> shift y cubre los chilladores con lana
+[12Jul2025 08:42:50.833] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1771, y=24, z=2418}
+[12Jul2025 08:42:51.399] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1925, y=-14, z=1980}
+[12Jul2025 08:42:54.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no me voy a meter alv
+[12Jul2025 08:42:58.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> culo
+[12Jul2025 08:43:26.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> horita voy yo pon las coords
+[12Jul2025 08:43:35.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me emboscaron unos vampiros
+[12Jul2025 08:44:04.118] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=430, y=27, z=452}
+[12Jul2025 08:44:07.130] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[12Jul2025 08:44:07.130] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[12Jul2025 08:44:36.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q putos justo me atacan cuand ome descubro
+[12Jul2025 08:44:56.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> estas si son dificultades
+[12Jul2025 08:45:06.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> lo bueno de las cuevas de rio es que no hay mobs
+[12Jul2025 08:45:14.439] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED 5444f38f-dc68-4bc2-94a2-82e3faf878c0
+[12Jul2025 08:45:15.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> mamon
+[12Jul2025 08:45:17.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> estoy en una
+[12Jul2025 08:45:30.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has completed the challenge [It Spreads]
+[12Jul2025 08:45:31.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pues no hay nada we bien pasifico
+[12Jul2025 08:45:40.235] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[12Jul2025 08:45:42.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> el sculk
+[12Jul2025 08:45:44.530] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[12Jul2025 08:45:52.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q sculk
+[12Jul2025 08:46:15.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> activalo y te vas en shift que el warden haga toda la limpieza jajja
+[12Jul2025 08:46:29.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[12Jul2025 08:46:34.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> deja te paso coord
+[12Jul2025 08:46:41.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> [name:"warden", x:-1688, y:60, z:2132, dim:minecraft:overworld]
+[12Jul2025 08:47:10.130] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1942, y=5, z=2110}
+[12Jul2025 08:48:10.333] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1982, y=-14, z=2190}
+[12Jul2025 08:48:14.931] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[12Jul2025 08:48:49.184] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[12Jul2025 08:49:01.363] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED f2fbbcb0-3da4-4a73-b89a-defba07a2377
+[12Jul2025 08:49:54.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> creo que no era ancient city
+[12Jul2025 08:49:55.482] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[12Jul2025 08:50:12.374] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED 7bd30fda-b91e-4321-9a80-b27fb343528e
+[12Jul2025 08:50:12.375] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 DISCARDED d5706d68-dfd3-4edd-8dbb-1e4a7f41dc6e
+[12Jul2025 08:50:12.789] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[12Jul2025 08:50:13.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> solo una cueva de skulk o q
+[12Jul2025 08:50:16.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> si
+[12Jul2025 08:50:23.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> troleado
+[12Jul2025 08:50:36.590] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[12Jul2025 08:50:42.670] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED bc5f0c0a-eca2-48f3-a80e-b4b305428692
+[12Jul2025 08:50:44.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> jijija
+[12Jul2025 08:50:45.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q kk
+[12Jul2025 08:51:07.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q lugar tan pacifico xd
+[12Jul2025 08:51:23.667] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 DISCARDED a5c6ba3b-ebe6-4ebf-841e-7c320ca40e56
+[12Jul2025 08:51:38.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> casi me deja sordo un enderman
+[12Jul2025 08:52:47.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> peta z existe
+[12Jul2025 08:52:49.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[12Jul2025 08:53:05.587] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[12Jul2025 08:53:11.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> cucaracha
+[12Jul2025 08:53:20.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> la cucaracha
+[12Jul2025 08:53:37.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> me asusto cuando paso el barco por blqoues de maagma
+[12Jul2025 08:53:48.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> xd
+[12Jul2025 08:54:17.437] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[12Jul2025 08:54:38.884] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[12Jul2025 08:56:01.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> estoy viendo q las pea tienen mucho empuje
+[12Jul2025 08:56:12.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> los xombies ignoran otros mobs si los atacan verdad?
+[12Jul2025 08:56:14.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> cm son los ores de las pvz
+[12Jul2025 08:56:25.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nosotros somos proridad de los zombies?
+[12Jul2025 08:56:32.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> si
+[12Jul2025 08:56:35.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pon ore en el jei es azul con verde
