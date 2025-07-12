@@ -68,6 +68,9 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "dry_bushland": "2025-07-12 07:52:45 +0000",
+      "steppe": "2025-07-12 08:02:47 +0000",
+      "prismachasm": "2025-07-12 08:03:06 +0000",
+      "redstone_caves": "2025-07-12 08:02:57 +0000",
       "eucalyptus_forest": "2025-07-12 07:05:57 +0000",
       "outback": "2025-07-12 06:59:47 +0000",
       "chalk_cliffs": "2025-07-12 07:37:59 +0000",
@@ -80,6 +83,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "dry_bushland": "2025-07-12 07:52:45 +0000",
+      "steppe": "2025-07-12 08:02:47 +0000",
       "eucalyptus_forest": "2025-07-12 07:05:57 +0000",
       "outback": "2025-07-12 06:59:47 +0000",
       "chalk_cliffs": "2025-07-12 07:37:59 +0000",
@@ -205,6 +209,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-07-12 07:53:39 +0000",
       "minecraft:river": "2025-07-12 07:09:05 +0000",
       "minecraft:stony_shore": "2025-07-12 07:33:34 +0000",
       "minecraft:desert": "2025-07-12 07:07:26 +0000",
@@ -301,6 +306,13 @@
       "egg": "2025-07-12 07:34:11 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-07-12 08:02:57 +0000",
+      "prismachasm": "2025-07-12 08:03:06 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
