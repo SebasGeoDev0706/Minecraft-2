@@ -2151,3 +2151,87 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jul2025 23:25:22.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> water drop
 [12Jul2025 23:25:34.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
 [12Jul2025 23:25:35.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> AY un cora
+[12Jul2025 23:25:52.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
+[12Jul2025 23:26:10.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2977ms or 59 ticks behind
+[12Jul2025 23:26:13.991] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 DISCARDED 79794f80-9ad2-4304-bfe1-2a88f5017193
+[12Jul2025 23:26:23.476] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED f9005b08-7887-403b-b754-5efe6f4678e2
+[12Jul2025 23:26:27.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[12Jul2025 23:26:44.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
+[12Jul2025 23:27:03.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
+[12Jul2025 23:27:16.904] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED dc20bbfc-a9b5-4fdb-856a-f2c7061c6632
+[12Jul2025 23:27:20.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
+[12Jul2025 23:27:37.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[12Jul2025 23:27:54.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[12Jul2025 23:28:11.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[12Jul2025 23:28:31.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Jul2025 23:28:41.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> 21 manzanas de oro q rico
+[12Jul2025 23:28:52.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dame la cura
+[12Jul2025 23:28:55.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[12Jul2025 23:28:58.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no
+[12Jul2025 23:29:02.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> hazme inyeccion de ajo
+[12Jul2025 23:29:05.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> seras puto hasta tu muerte
+[12Jul2025 23:29:12.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[12Jul2025 23:29:29.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[12Jul2025 23:30:00.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> mamon los zombies me atacan y los pendejos cm q les da veneno
+[12Jul2025 23:30:12.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> xd
+[12Jul2025 23:30:35.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pasa coord de tu casa
+[12Jul2025 23:30:50.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no tengo ya voy al spawn
+[12Jul2025 23:31:11.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a cuantos block estas
+[12Jul2025 23:31:16.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> 2000
+[12Jul2025 23:31:18.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[12Jul2025 23:31:20.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [When in Rome]
+[12Jul2025 23:32:09.296] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 23:32:09.310] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 23:32:19.563] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 23:32:21.045] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 23:32:21.090] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 23:32:24.117] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1942, y=-10, z=-1609}
+[12Jul2025 23:32:28.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After TerroncitoTroll was slain by Vindicator, they gave up
+[12Jul2025 23:32:39.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> o q la
+[12Jul2025 23:32:48.978] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1670, y=138, z=-1535}
+[12Jul2025 23:32:48.978] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1670, y=138, z=-1535}
+[12Jul2025 23:32:48.981] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1672, y=150, z=-1530}
+[12Jul2025 23:32:48.981] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1672, y=150, z=-1530}
+[12Jul2025 23:32:49.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> olvide el ajo
+[12Jul2025 23:32:54.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> yo tengo uno
+[12Jul2025 23:32:55.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a no ya no habia
+[12Jul2025 23:32:55.920] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1828, y=18, z=-1532}
+[12Jul2025 23:32:55.974] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1705, y=-22, z=-1532}
+[12Jul2025 23:32:56.755] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1672, y=150, z=-1530}
+[12Jul2025 23:32:56.755] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1670, y=138, z=-1535}
+[12Jul2025 23:32:59.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> es que mate a un vampi
+[12Jul2025 23:33:29.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1614, y=-39, z=-1613}
+[12Jul2025 23:33:33.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[12Jul2025 23:33:38.289] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1589, y=-49, z=-1737}
+[12Jul2025 23:33:38.291] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1595, y=27, z=-1773}
+[12Jul2025 23:33:47.744] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1580, y=-51, z=-1779}
+[12Jul2025 23:33:52.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12Jul2025 23:34:07.098] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1556, y=-43, z=-1871}
+[12Jul2025 23:34:12.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[12Jul2025 23:34:15.564] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1526, y=-47, z=-1555}
+[12Jul2025 23:34:15.564] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1526, y=-47, z=-1564}
+[12Jul2025 23:34:18.730] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[12Jul2025 23:34:18.756] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[12Jul2025 23:34:21.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> necesito chupar
+[12Jul2025 23:34:22.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1508, y=7, z=-1780}
+[12Jul2025 23:34:24.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was struck with lightning by a dragon
+[12Jul2025 23:35:00.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1485, y=-20, z=-1722}
+[12Jul2025 23:35:10.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[12Jul2025 23:35:18.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> alv estructura de la end city en madero
+[12Jul2025 23:35:26.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rita'/101673, l='ServerLevel[Mundo nuevo]', x=-1502.40, y=-21.00, z=-1783.67] died, message: 'Rita was shot by Pillager'
+[12Jul2025 23:35:26.406] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rita'/101673, l='ServerLevel[Mundo nuevo]', x=-1502.40, y=-21.00, z=-1783.67] died: Rita was shot by Pillager
+[12Jul2025 23:35:27.056] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1499, y=-38, z=-1494}
+[12Jul2025 23:35:28.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3498ms or 69 ticks behind
+[12Jul2025 23:35:32.442] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1505, y=-50, z=-1477}
+[12Jul2025 23:35:32.566] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fernand'/100347, l='ServerLevel[Mundo nuevo]', x=-1467.29, y=-7.00, z=-1802.50] died, message: 'Fernand was shot by Pillager'
+[12Jul2025 23:35:37.516] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1444, y=-26, z=-1466}
+[12Jul2025 23:35:39.048] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 23:35:39.085] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 23:35:39.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Rigged from the Start]
+[12Jul2025 23:35:46.628] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 23:35:46.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
+[12Jul2025 23:35:50.833] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1790, y=-11, z=-1415}
+[12Jul2025 23:35:53.849] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1637, y=4, z=-1395}
+[12Jul2025 23:36:00.601] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1538, y=-32, z=-1378}
+[12Jul2025 23:36:03.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[12Jul2025 23:36:05.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Skyward Cities]
