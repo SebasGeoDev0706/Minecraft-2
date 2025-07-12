@@ -225,6 +225,7 @@
     "criteria": {
       "cooked_mutton": "2025-07-12 08:34:19 +0000",
       "bread": "2025-07-12 06:41:32 +0000",
+      "golden_apple": "2025-07-12 21:58:19 +0000",
       "rotten_flesh": "2025-07-12 06:36:06 +0000",
       "glow_berries": "2025-07-12 09:52:16 +0000",
       "salmon": "2025-07-12 06:35:57 +0000",
@@ -348,7 +349,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-07-12 07:36:03 +0000"
+      "in_better_spider_dungeon": "2025-07-12 07:36:03 +0000",
+      "in_better_skeleton_dungeon": "2025-07-12 21:55:28 +0000"
     },
     "done": false
   },
@@ -501,6 +503,24 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-07-12 21:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-12 21:51:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-12 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-07-12 21:55:28 +0000"
     },
     "done": true
   },
