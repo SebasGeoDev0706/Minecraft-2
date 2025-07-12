@@ -152,6 +152,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-12 07:46:24 +0000",
+      "minecraft:vindicator": "2025-07-12 23:33:53 +0000",
       "minecraft:spider": "2025-07-12 07:20:19 +0000",
       "minecraft:husk": "2025-07-12 06:43:00 +0000",
       "minecraft:enderman": "2025-07-12 08:51:13 +0000",
@@ -586,15 +587,40 @@
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
+      "resurrected": "2025-07-12 23:36:48 +0000",
       "main": "2025-07-12 22:28:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/bat": {
     "criteria": {
       "main": "2025-07-12 22:28:28 +0000"
     },
     "done": false
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-07-12 23:43:35 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-07-12 23:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-12 23:43:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-07-12 23:38:10 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

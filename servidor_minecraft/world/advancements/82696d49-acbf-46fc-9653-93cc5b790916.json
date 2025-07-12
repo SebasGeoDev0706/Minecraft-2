@@ -259,6 +259,7 @@
       "minecraft:savanna_plateau": "2025-07-12 10:09:35 +0000",
       "minecraft:beach": "2025-07-12 09:13:47 +0000",
       "minecraft:stony_peaks": "2025-07-12 10:45:03 +0000",
+      "minecraft:dark_forest": "2025-07-12 23:33:13 +0000",
       "minecraft:sparse_jungle": "2025-07-12 10:04:50 +0000",
       "minecraft:river": "2025-07-12 07:09:05 +0000",
       "minecraft:stony_shore": "2025-07-12 07:33:34 +0000",
@@ -569,77 +570,29 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "betterdungeons:zombie_dungeon": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:30:55 +0000"
+      "in_better_zombie_dungeon": "2025-07-12 23:31:20 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-07-12 23:31:20 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "repurposed_structures:city_overworld": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:30:55 +0000"
+      "city_overworld": "2025-07-12 23:36:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:30:55 +0000"
+      "coded_trigger": "2025-07-12 23:45:29 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 23:30:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 23:30:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 23:30:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 23:30:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 23:30:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 23:30:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 23:30:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 23:30:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 23:30:55 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
