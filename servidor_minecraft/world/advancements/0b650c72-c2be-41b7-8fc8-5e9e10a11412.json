@@ -228,6 +228,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-07-12 08:34:19 +0000",
+      "porkchop": "2025-07-12 22:56:21 +0000",
+      "tropical_fish": "2025-07-12 22:53:18 +0000",
+      "apple": "2025-07-12 22:56:01 +0000",
       "bread": "2025-07-12 06:41:32 +0000",
       "golden_apple": "2025-07-12 21:58:19 +0000",
       "rotten_flesh": "2025-07-12 06:36:06 +0000",
@@ -562,9 +565,10 @@
   },
   "vampirism:vampire/first_blood": {
     "criteria": {
-      "main": "2025-07-12 22:28:28 +0000"
+      "main": "2025-07-12 22:28:28 +0000",
+      "flower": "2025-07-12 22:54:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/become_vampire": {
     "criteria": {
@@ -587,79 +591,6 @@
   "vampirism:vampire/bat": {
     "criteria": {
       "main": "2025-07-12 22:28:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 22:43:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 22:43:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 22:43:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 22:43:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 22:43:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-12 22:43:50 +0000",
-      "log_spam_fixer": "2025-07-12 22:43:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 22:43:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 22:43:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 22:43:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 22:43:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 22:43:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 22:43:43 +0000"
     },
     "done": false
   },
