@@ -69,10 +69,12 @@
     "criteria": {
       "arid_mountains": "2025-07-12 08:04:13 +0000",
       "dry_bushland": "2025-07-12 07:52:45 +0000",
+      "redstone_abyss": "2025-07-12 09:59:50 +0000",
       "steppe": "2025-07-12 08:02:47 +0000",
       "prismachasm": "2025-07-12 08:03:06 +0000",
       "rocky_reef": "2025-07-12 09:12:59 +0000",
       "redstone_caves": "2025-07-12 08:02:57 +0000",
+      "grassy_beach": "2025-07-12 10:03:37 +0000",
       "tropical_river": "2025-07-12 09:13:55 +0000",
       "eucalyptus_forest": "2025-07-12 07:05:57 +0000",
       "outback": "2025-07-12 06:59:47 +0000",
@@ -92,6 +94,7 @@
       "dry_bushland": "2025-07-12 07:52:45 +0000",
       "steppe": "2025-07-12 08:02:47 +0000",
       "rocky_reef": "2025-07-12 09:12:59 +0000",
+      "grassy_beach": "2025-07-12 10:03:37 +0000",
       "tropical_river": "2025-07-12 09:13:55 +0000",
       "eucalyptus_forest": "2025-07-12 07:05:57 +0000",
       "outback": "2025-07-12 06:59:47 +0000",
@@ -227,10 +230,12 @@
       "minecraft:wooded_badlands": "2025-07-12 08:35:45 +0000",
       "minecraft:badlands": "2025-07-12 08:05:32 +0000",
       "minecraft:beach": "2025-07-12 09:13:47 +0000",
+      "minecraft:sparse_jungle": "2025-07-12 10:04:50 +0000",
       "minecraft:river": "2025-07-12 07:09:05 +0000",
       "minecraft:stony_shore": "2025-07-12 07:33:34 +0000",
       "minecraft:dripstone_caves": "2025-07-12 08:04:23 +0000",
       "minecraft:desert": "2025-07-12 07:07:26 +0000",
+      "minecraft:jungle": "2025-07-12 10:04:09 +0000",
       "minecraft:warm_ocean": "2025-07-12 07:49:45 +0000",
       "minecraft:savanna": "2025-07-12 09:39:29 +0000"
     },
@@ -358,9 +363,27 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-12 09:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-12 09:59:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-07-12 09:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-12 09:59:43 +0000"
     },
     "done": true
   },
@@ -375,6 +398,12 @@
       "coded_trigger": "2025-07-12 09:50:56 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "redstone_abyss": "2025-07-12 09:59:50 +0000"
+    },
+    "done": false
   },
   "artifacts:amateur_archaeologist": {
     "criteria": {

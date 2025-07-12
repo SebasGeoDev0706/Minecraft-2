@@ -69,9 +69,11 @@
     "criteria": {
       "prismachasm": "2025-07-12 08:03:52 +0000",
       "redstone_caves": "2025-07-12 08:03:51 +0000",
+      "scorching_caves": "2025-07-12 10:02:02 +0000",
       "tropical_river": "2025-07-12 07:20:52 +0000",
       "eucalyptus_forest": "2025-07-12 07:07:55 +0000",
       "outback": "2025-07-12 06:48:23 +0000",
+      "sparse_redwoods": "2025-07-12 10:00:06 +0000",
       "deciduous_forest": "2025-07-12 08:03:42 +0000",
       "saguaro_desert": "2025-07-12 06:21:34 +0000",
       "baobab_savanna": "2025-07-12 09:16:19 +0000",
@@ -86,6 +88,7 @@
       "tropical_river": "2025-07-12 07:20:52 +0000",
       "eucalyptus_forest": "2025-07-12 07:07:55 +0000",
       "outback": "2025-07-12 06:48:23 +0000",
+      "sparse_redwoods": "2025-07-12 10:00:06 +0000",
       "deciduous_forest": "2025-07-12 08:03:42 +0000",
       "saguaro_desert": "2025-07-12 06:21:34 +0000",
       "baobab_savanna": "2025-07-12 09:16:19 +0000",
@@ -173,6 +176,7 @@
       "minecraft:stony_peaks": "2025-07-12 08:42:43 +0000",
       "minecraft:sparse_jungle": "2025-07-12 07:14:13 +0000",
       "minecraft:river": "2025-07-12 07:27:00 +0000",
+      "minecraft:dripstone_caves": "2025-07-12 10:01:27 +0000",
       "minecraft:forest": "2025-07-12 07:36:31 +0000",
       "minecraft:desert": "2025-07-12 06:30:27 +0000",
       "minecraft:jungle": "2025-07-12 07:27:03 +0000",
@@ -223,7 +227,8 @@
       "bread": "2025-07-12 06:41:32 +0000",
       "rotten_flesh": "2025-07-12 06:36:06 +0000",
       "glow_berries": "2025-07-12 09:52:16 +0000",
-      "salmon": "2025-07-12 06:35:57 +0000"
+      "salmon": "2025-07-12 06:35:57 +0000",
+      "melon_slice": "2025-07-12 09:59:33 +0000"
     },
     "done": false
   },
@@ -380,7 +385,8 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-07-12 08:03:51 +0000",
-      "prismachasm": "2025-07-12 08:03:52 +0000"
+      "prismachasm": "2025-07-12 08:03:52 +0000",
+      "scorching_caves": "2025-07-12 10:02:02 +0000"
     },
     "done": false
   },
@@ -414,6 +420,18 @@
     },
     "done": true
   },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-07-12 10:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-12 09:58:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2025-07-12 09:33:33 +0000"
@@ -429,6 +447,24 @@
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2025-07-12 09:21:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 10:04:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-12 10:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-07-12 09:57:24 +0000"
     },
     "done": true
   },
