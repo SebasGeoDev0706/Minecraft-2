@@ -67,14 +67,17 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-07-12 22:15:34 +0000",
       "arid_mountains": "2025-07-12 08:04:13 +0000",
       "dry_bushland": "2025-07-12 07:52:45 +0000",
       "redstone_abyss": "2025-07-12 09:59:50 +0000",
       "steppe": "2025-07-12 08:02:47 +0000",
+      "bayou": "2025-07-12 22:23:34 +0000",
       "prismachasm": "2025-07-12 08:03:06 +0000",
       "rocky_reef": "2025-07-12 09:12:59 +0000",
       "redstone_caves": "2025-07-12 08:02:57 +0000",
       "grassy_beach": "2025-07-12 10:03:37 +0000",
+      "blackwood_taiga": "2025-07-12 22:34:27 +0000",
       "tropical_river": "2025-07-12 09:13:55 +0000",
       "eucalyptus_forest": "2025-07-12 07:05:57 +0000",
       "magnolia_highlands": "2025-07-12 10:51:41 +0000",
@@ -82,25 +85,31 @@
       "joshua_desert": "2025-07-12 08:11:21 +0000",
       "sparse_redwoods": "2025-07-12 10:54:24 +0000",
       "deciduous_forest": "2025-07-12 10:49:10 +0000",
+      "towering_cliffs": "2025-07-12 22:29:57 +0000",
       "chalk_cliffs": "2025-07-12 07:37:59 +0000",
       "bamboo_forest": "2025-07-12 10:57:43 +0000",
       "saguaro_desert": "2025-07-12 06:40:06 +0000",
+      "temperate_grove": "2025-07-12 22:18:19 +0000",
       "baobab_savanna": "2025-07-12 07:51:44 +0000",
       "grassland": "2025-07-12 09:37:37 +0000",
       "prairie": "2025-07-12 09:37:07 +0000",
       "redwoods": "2025-07-12 10:54:55 +0000",
       "rainforest": "2025-07-12 07:37:31 +0000",
-      "bioshroom_caves": "2025-07-12 22:04:54 +0000"
+      "bioshroom_caves": "2025-07-12 22:04:54 +0000",
+      "lupine_plains": "2025-07-12 22:18:50 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-07-12 22:15:34 +0000",
       "arid_mountains": "2025-07-12 08:04:13 +0000",
       "dry_bushland": "2025-07-12 07:52:45 +0000",
       "steppe": "2025-07-12 08:02:47 +0000",
+      "bayou": "2025-07-12 22:23:34 +0000",
       "rocky_reef": "2025-07-12 09:12:59 +0000",
       "grassy_beach": "2025-07-12 10:03:37 +0000",
+      "blackwood_taiga": "2025-07-12 22:34:27 +0000",
       "tropical_river": "2025-07-12 09:13:55 +0000",
       "eucalyptus_forest": "2025-07-12 07:05:57 +0000",
       "magnolia_highlands": "2025-07-12 10:51:41 +0000",
@@ -108,14 +117,17 @@
       "joshua_desert": "2025-07-12 08:11:21 +0000",
       "sparse_redwoods": "2025-07-12 10:54:24 +0000",
       "deciduous_forest": "2025-07-12 10:49:10 +0000",
+      "towering_cliffs": "2025-07-12 22:29:57 +0000",
       "chalk_cliffs": "2025-07-12 07:37:59 +0000",
       "bamboo_forest": "2025-07-12 10:57:43 +0000",
       "saguaro_desert": "2025-07-12 06:40:06 +0000",
+      "temperate_grove": "2025-07-12 22:18:19 +0000",
       "baobab_savanna": "2025-07-12 07:51:44 +0000",
       "grassland": "2025-07-12 09:37:37 +0000",
       "prairie": "2025-07-12 09:37:07 +0000",
       "redwoods": "2025-07-12 10:54:55 +0000",
-      "rainforest": "2025-07-12 07:37:31 +0000"
+      "rainforest": "2025-07-12 07:37:31 +0000",
+      "lupine_plains": "2025-07-12 22:18:50 +0000"
     },
     "done": false
   },
@@ -182,6 +194,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-07-12 09:48:36 +0000",
+      "minecraft:slime": "2025-07-12 22:22:41 +0000",
+      "minecraft:witch": "2025-07-12 22:19:54 +0000",
       "minecraft:zombie": "2025-07-12 06:43:38 +0000"
     },
     "done": false
@@ -238,6 +252,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2025-07-12 07:53:39 +0000",
+      "minecraft:birch_forest": "2025-07-12 22:34:58 +0000",
       "minecraft:wooded_badlands": "2025-07-12 08:35:45 +0000",
       "minecraft:bamboo_jungle": "2025-07-12 10:54:05 +0000",
       "minecraft:badlands": "2025-07-12 08:05:32 +0000",
@@ -471,6 +486,42 @@
       "in_pyramid_giant_tree_taiga": "2025-07-12 10:54:53 +0000"
     },
     "done": false
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "swamp_village": "2025-07-12 22:19:11 +0000"
+    },
+    "done": false
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-07-12 22:41:56 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 22:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-12 22:40:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "second": "2025-07-12 22:41:58 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-07-12 22:19:11 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
