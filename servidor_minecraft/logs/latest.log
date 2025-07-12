@@ -1356,3 +1356,93 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jul2025 21:31:50.341] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
 [12Jul2025 21:31:50.355] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
 [12Jul2025 21:31:59.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Warden
+[12Jul2025 21:32:08.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> aaaa
+[12Jul2025 21:32:28.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll lost connection: Timed out
+[12Jul2025 21:32:29.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll left the game
+[12Jul2025 21:32:49.753] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KekinX is 82696d49-acbf-46fc-9653-93cc5b790916
+[12Jul2025 21:32:52.026] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TerroncitoTroll is 0b650c72-c2be-41b7-8fc8-5e9e10a11412
+[12Jul2025 21:32:55.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KekinX[/127.198.111.132:43969] logged in with entity id 4977 at (-1670.905576364419, 74.17675927506424, -2476.132230395501)
+[12Jul2025 21:32:56.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX joined the game
+[12Jul2025 21:32:56.910] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (841 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=841, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[12Jul2025 21:33:01.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TerroncitoTroll[/127.153.250.51:50409] logged in with entity id 5285 at (-630.5, -15.0, -1801.5)
+[12Jul2025 21:33:01.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll joined the game
+[12Jul2025 21:33:03.415] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (1346 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=1346, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[12Jul2025 21:33:03.421] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412)
+[12Jul2025 21:33:07.361] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KekinX (82696d49-acbf-46fc-9653-93cc5b790916)
+[12Jul2025 21:33:17.491] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 21:33:17.502] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 21:33:24.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Warden
+[12Jul2025 21:33:39.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a
+[12Jul2025 21:33:47.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll lost connection: Timed out
+[12Jul2025 21:33:47.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll left the game
+[12Jul2025 21:33:50.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q weba jugar con mando
+[12Jul2025 21:33:53.206] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1902, y=5, z=-2519}
+[12Jul2025 21:33:53.207] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1902, y=5, z=-2518}
+[12Jul2025 21:33:56.260] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1902, y=5, z=-2519}
+[12Jul2025 21:33:59.510] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1436, y=80, z=-2671}
+[12Jul2025 21:34:00.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1894, y=22, z=-2630}
+[12Jul2025 21:34:02.064] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1888, y=31, z=-2719}
+[12Jul2025 21:34:14.264] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1907, y=68, z=-2362}
+[12Jul2025 21:34:30.096] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1397, y=-37, z=-2607}
+[12Jul2025 21:34:30.227] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1409, y=-18, z=-2630}
+[12Jul2025 21:35:07.291] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TerroncitoTroll is 0b650c72-c2be-41b7-8fc8-5e9e10a11412
+[12Jul2025 21:35:16.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TerroncitoTroll[/127.153.250.51:45175] logged in with entity id 6794 at (-630.5, -15.0, -1801.5)
+[12Jul2025 21:35:16.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll joined the game
+[12Jul2025 21:35:18.343] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (1537 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=1537, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[12Jul2025 21:35:18.348] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412)
+[12Jul2025 21:35:38.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> e
+[12Jul2025 21:35:41.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q weba jugar con mando
+[12Jul2025 21:35:55.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Jul2025 21:35:55.904] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 21:35:55.930] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 21:36:00.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pa colmo estaba fuera y es d noche
+[12Jul2025 21:36:04.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Warden
+[12Jul2025 21:36:04.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> y no puedo dormir
+[12Jul2025 21:36:09.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> peor que yo no estas we
+[12Jul2025 21:36:19.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> bueno eso si
+[12Jul2025 21:36:22.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> mejora
+[12Jul2025 21:36:50.703] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 21:36:50.723] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 21:36:58.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Warden
+[12Jul2025 21:37:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> o q la verga
+[12Jul2025 21:37:32.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> alfin
+[12Jul2025 21:37:36.558] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1422, y=-36, z=-2702}
+[12Jul2025 21:37:36.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1400, y=-35, z=-2699}
+[12Jul2025 21:37:44.120] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1395, y=-41, z=-2745}
+[12Jul2025 21:37:45.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q
+[12Jul2025 21:37:51.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[12Jul2025 21:37:51.747] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1366, y=27, z=-2739}
+[12Jul2025 21:38:00.528] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1381, y=-10, z=-2828}
+[12Jul2025 21:38:12.141] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 21:38:12.157] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 21:38:19.409] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1372, y=-43, z=-2837}
+[12Jul2025 21:38:21.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Warden
+[12Jul2025 21:38:24.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1566, y=25, z=-2849}
+[12Jul2025 21:38:24.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
+[12Jul2025 21:38:24.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX moved too quickly! 3.8921914349905364,1.2286092609382138,9.496114964327717
+[12Jul2025 21:38:33.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> puta runa me lleva a donde hay wardens
+[12Jul2025 21:38:40.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q rico
+[12Jul2025 21:38:52.905] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[12Jul2025 21:38:52.930] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[12Jul2025 21:38:55.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q lag
+[12Jul2025 21:38:58.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Spasoje'/9128, l='ServerLevel[Mundo nuevo]', x=-1458.34, y=86.20, z=-2669.00] died, message: 'Spasoje was slain by Cyclops'
+[12Jul2025 21:38:58.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Spasoje'/9128, l='ServerLevel[Mundo nuevo]', x=-1458.34, y=86.20, z=-2669.00] died: Spasoje was slain by Cyclops
+[12Jul2025 21:39:10.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1369, y=0, z=-2869}
+[12Jul2025 21:39:16.179] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[12Jul2025 21:39:16.234] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 21:39:16.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> fue una mamada pto control
+[12Jul2025 21:39:18.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll tried to swim in lava
+[12Jul2025 21:39:18.315] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[12Jul2025 21:39:22.396] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1233, y=0, z=-2789}
+[12Jul2025 21:39:22.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XDDD
+[12Jul2025 21:39:41.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> pa colmo no me puedo matar
+[12Jul2025 21:39:42.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> mamon mi suerte esta dlv
+[12Jul2025 21:39:47.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Cyclops
+[12Jul2025 21:39:49.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3086ms or 61 ticks behind
+[12Jul2025 21:40:03.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a
+[12Jul2025 21:40:05.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ahora tenbgo q GRRRRRRRRRRRRRRRRRRRRRRRR
+[12Jul2025 21:40:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dios la encontre
+[12Jul2025 21:40:22.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> la ancient
+[12Jul2025 21:40:26.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> pero no encuentro mi tumba
+[12Jul2025 21:40:42.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX lost connection: Disconnected
+[12Jul2025 21:40:42.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX left the game
