@@ -186,6 +186,7 @@
       "minecraft:desert": "2025-07-12 06:30:27 +0000",
       "minecraft:jungle": "2025-07-12 07:27:03 +0000",
       "minecraft:deep_dark": "2025-07-12 08:44:15 +0000",
+      "minecraft:savanna": "2025-07-12 23:52:08 +0000",
       "minecraft:plains": "2025-07-12 07:12:39 +0000"
     },
     "done": false
@@ -598,11 +599,35 @@
     },
     "done": false
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-07-13 00:04:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-07-12 23:59:54 +0000"
+    },
+    "done": true
+  },
   "vampirism:hunter/betrayal": {
     "criteria": {
       "kill": "2025-07-12 23:43:35 +0000"
     },
     "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-12 23:53:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-07-13 00:04:58 +0000"
+    },
+    "done": true
   },
   "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
