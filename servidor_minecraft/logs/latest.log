@@ -2384,3 +2384,111 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 05:37:43.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was energized by Zombie
 [13Jul2025 05:37:58.429] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
 [13Jul2025 05:37:58.441] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 05:38:04.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was struck with lightning by a dragon
+[13Jul2025 05:38:05.568] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK fdeb8173-7f8b-44e3-a462-04d8617b010d
+[13Jul2025 05:38:36.640] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 05:38:36.651] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 05:38:38.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> me da risa que mi cama fue la unica que sobrevivio
+[13Jul2025 05:38:38.619] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 05:38:38.663] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 05:38:42.928] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 05:38:44.755] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 05:38:44.793] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 05:38:45.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[13Jul2025 05:38:50.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After TerroncitoTroll was slain by Zombie, they gave up
+[13Jul2025 05:39:00.943] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 05:39:00.950] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 05:39:07.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[13Jul2025 05:39:14.134] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 05:39:14.142] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 05:39:17.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nos hubieramos ido a una alea la cagamos
+[13Jul2025 05:39:21.040] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 05:39:24.051] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 05:39:24.095] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 05:39:25.185] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 05:39:25.193] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 05:39:29.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After TerroncitoTroll was slain by Zombie, they gave up
+[13Jul2025 05:39:31.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[13Jul2025 05:39:37.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> lo feo es el dragon
+[13Jul2025 05:39:49.884] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 05:39:49.896] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 05:39:57.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[13Jul2025 05:39:58.898] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK fdeb8173-7f8b-44e3-a462-04d8617b010d
+[13Jul2025 05:40:18.729] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 05:40:18.750] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 05:40:26.394] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 05:40:27.796] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 05:40:27.803] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 05:40:33.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After TerroncitoTroll was slain by Lightning Dragon, they gave up
+[13Jul2025 05:40:42.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> grr
+[13Jul2025 05:40:50.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Killed KekinX]
+[13Jul2025 05:40:53.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Killed KekinX]
+[13Jul2025 05:40:55.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a
+[13Jul2025 05:41:02.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a
+[13Jul2025 05:41:04.741] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 05:41:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Killed KekinX]
+[13Jul2025 05:41:04.751] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 05:41:12.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was killed
+[13Jul2025 05:41:13.087] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK fdeb8173-7f8b-44e3-a462-04d8617b010d
+[13Jul2025 05:41:38.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> los pillaguers andan acarreando
+[13Jul2025 05:41:53.982] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 05:41:53.994] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 05:41:57.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX died because of Zombie
+[13Jul2025 05:41:57.450] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 05:42:18.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has completed the challenge [Village Defender]
+[13Jul2025 05:42:38.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> mira ese drift
+[13Jul2025 05:42:43.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> we se chingaron al dragon
+[13Jul2025 05:42:48.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[13Jul2025 05:42:54.637] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 05:42:54.645] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 05:43:02.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[13Jul2025 05:43:30.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> al fin funciona
+[13Jul2025 05:44:06.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya no
+[13Jul2025 05:44:54.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no me deja chuparsela a mordecai
+[13Jul2025 05:45:10.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a mi entonces
+[13Jul2025 05:46:00.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [It's an Emu!!!]
+[13Jul2025 05:46:53.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> esas dos no ce puedes regenerara
+[13Jul2025 05:47:23.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nos mudamos a un lugar mas seguro/
+[13Jul2025 05:47:30.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[13Jul2025 05:47:37.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a donde
+[13Jul2025 05:47:41.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> lo escuchas?
+[13Jul2025 05:47:44.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ponte aqui
+[13Jul2025 05:48:18.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q ruido
+[13Jul2025 05:48:19.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a si tienes todo el inv lleno se esucha el sonido de recoger el sol inf
+[13Jul2025 05:48:29.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> estoy lejos y lo sigo escuchando
+[13Jul2025 05:49:10.692] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 05:49:10.699] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 05:49:14.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> alv
+[13Jul2025 05:49:19.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> voy?
+[13Jul2025 05:49:22.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> si
+[13Jul2025 05:49:26.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> se me lagueo
+[13Jul2025 05:49:57.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> me da hambre de la nda
+[13Jul2025 05:50:02.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> es normal?
+[13Jul2025 05:50:05.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> aywy
+[13Jul2025 05:50:07.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> osea pero cabrona
+[13Jul2025 05:50:14.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q se me naja en putiza
+[13Jul2025 05:50:23.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> qro chuparte pero se me abre tu mochila we
+[13Jul2025 05:50:43.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> xd
+[13Jul2025 05:50:47.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> deja me la quito
+[13Jul2025 05:51:01.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> yasta
+[13Jul2025 05:51:34.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> retirada
+[13Jul2025 05:51:45.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX lost connection: Disconnected
+[13Jul2025 05:51:45.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX left the game
+[13Jul2025 05:54:21.446] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KekinX is 82696d49-acbf-46fc-9653-93cc5b790916
+[13Jul2025 05:54:28.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KekinX[/127.171.159.57:45723] logged in with entity id 39210 at (-1688.237575294082, 83.0, 669.2504464127585)
+[13Jul2025 05:54:28.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX joined the game
+[13Jul2025 05:54:28.485] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KekinX (82696d49-acbf-46fc-9653-93cc5b790916)
+[13Jul2025 05:54:47.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> wacha we
+[13Jul2025 05:54:58.645] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 05:54:58.652] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 05:55:14.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ya soy normal
+[13Jul2025 05:55:14.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> el sacate xd
+[13Jul2025 05:55:20.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> alfin
+[13Jul2025 05:55:24.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ten drogate
+[13Jul2025 05:55:54.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya
+[13Jul2025 05:56:26.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya nos mudaremos o todavia no?
+[13Jul2025 05:56:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ya
+[13Jul2025 05:56:37.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a q bioma
+[13Jul2025 05:57:10.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> con que no sea tan caotico
+[13Jul2025 05:57:51.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a las planicies
+[13Jul2025 05:58:15.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a donde sea nomas que no esten tan caga palos
