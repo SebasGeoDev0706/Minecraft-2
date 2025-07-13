@@ -706,6 +706,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-07-13 05:27:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-07-13 05:02:35 +0000"
