@@ -9,16 +9,16 @@
 		"Generate Dragon Skeleton Chance" = 300
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Cave Chance" = 180
+		"Generate Dragon Cave Chance" = 300
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Generate Dragon Roost Chance" = 360
+		"Generate Dragon Roost Chance" = 10
 		#1 out of this number chance per block that gold will generate in dragon lairs.
 		#Range: 1 ~ 10000
 		"Dragon Den Gold Amount" = 4
 		#Ratio of Stone(this number) to Ores in Dragon Caves
 		#Range: 1 ~ 10000
-		"Dragon Cave Ore Ratio" = 45
+		"Dragon Cave Ore Ratio" = 50
 
 	[Generation.Structures-Features]
 		#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from spawn.
@@ -188,7 +188,7 @@
 		"Death Worms Target Monsters" = true
 		#Deathworm spawn weight. Higher = lower chance to spawn
 		#Range: 1 ~ 10000
-		"Death Worm Spawn Weight" = 30
+		"Death Worm Spawn Weight" = 10
 
 	[Mobs.Cockatrice]
 		#Maximum cockatrice health
@@ -291,7 +291,7 @@
 	[Mobs.SeaSerpents]
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Sea Serpent Chance" = 250
+		"Spawn Sea Serpent Chance" = 80
 		#Whether or not sea serpents can break weak blocks in their way
 		"Sea Serpent Griefing" = true
 		#Default sea serpent health, this is scaled to the sea serpent's particular size
