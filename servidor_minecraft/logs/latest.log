@@ -2693,3 +2693,82 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 06:29:09.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
 [13Jul2025 06:29:10.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
 [13Jul2025 06:29:14.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ya mos por las cosas
+[13Jul2025 06:29:38.823] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 DISCARDED fff3dc7c-da39-4e69-a13e-9d4856f506d4
+[13Jul2025 06:29:40.824] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 DISCARDED 6eae76dc-101e-44f4-829c-e4f0cdd3e5ef
+[13Jul2025 06:29:56.871] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 DISCARDED b1fb69d6-c71d-46d2-95d2-b0f00ab20d28
+[13Jul2025 06:30:00.078] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:30:00.090] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:30:06.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Horde Zombie
+[13Jul2025 06:30:11.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> o q la
+[13Jul2025 06:30:15.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> one shot
+[13Jul2025 06:30:21.077] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED cc3eb863-b034-43d4-b166-b0bf570cdda9
+[13Jul2025 06:30:42.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no borrs tu mundo por un mal momento
+[13Jul2025 06:31:06.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> si parar el servidor fuera malo
+[13Jul2025 06:31:11.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ./play
+[13Jul2025 06:31:50.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> we
+[13Jul2025 06:31:52.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> rodeemos
+[13Jul2025 06:31:57.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> es bioma de hombres lobos
+[13Jul2025 06:32:54.327] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK ffa25a1f-3374-4adb-b9b4-a9e6bf05ebf7
+[13Jul2025 06:35:38.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> gente blanca alfin
+[13Jul2025 06:35:46.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> mimir
+[13Jul2025 06:36:08.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Diamonds!]
+[13Jul2025 06:36:18.683] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:36:18.698] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:36:21.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> o q la
+[13Jul2025 06:36:24.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> puto lag
+[13Jul2025 06:36:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[13Jul2025 06:36:45.533] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Yeva'/58913, l='ServerLevel[Mundo nuevo]', x=-1298.27, y=72.00, z=-151.59] died, message: 'Yeva was slain by Zombie'
+[13Jul2025 06:36:45.534] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Yeva'/58913, l='ServerLevel[Mundo nuevo]', x=-1298.27, y=72.00, z=-151.59] died: Yeva was slain by Zombie
+[13Jul2025 06:36:47.480] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 06:36:47.491] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 06:36:52.328] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valeri'/58916, l='ServerLevel[Mundo nuevo]', x=-1276.41, y=68.00, z=-206.49] died, message: 'Valeri was slain by Zombie'
+[13Jul2025 06:36:52.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Valeri'/58916, l='ServerLevel[Mundo nuevo]', x=-1276.41, y=68.00, z=-206.49] died: Valeri was slain by Zombie
+[13Jul2025 06:36:54.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> guardaste _
+[13Jul2025 06:36:54.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[13Jul2025 06:36:56.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ?
+[13Jul2025 06:36:59.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> si
+[13Jul2025 06:37:04.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a mi no me dio tiempo we
+[13Jul2025 06:37:07.429] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Nazar'/58930, l='ServerLevel[Mundo nuevo]', x=-1317.45, y=64.02, z=-220.17] died, message: 'Nazar was slain by Zombie'
+[13Jul2025 06:37:07.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Nazar'/58930, l='ServerLevel[Mundo nuevo]', x=-1317.45, y=64.02, z=-220.17] died: Nazar was slain by Zombie
+[13Jul2025 06:37:08.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> revivieme
+[13Jul2025 06:37:18.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:37:19.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> fak
+[13Jul2025 06:37:19.772] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Sonya}[style={}] has been infected
+[13Jul2025 06:37:24.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TerroncitoTroll: Teleported TerroncitoTroll to KekinX]
+[13Jul2025 06:37:27.079] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Artush}[style={}] has been infected
+[13Jul2025 06:37:30.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Artush'/60856, l='ServerLevel[Mundo nuevo]', x=-1281.78, y=69.18, z=-197.55] died, message: 'Artush was slain by Zombie'
+[13Jul2025 06:37:41.282] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Gagik'/58929, l='ServerLevel[Mundo nuevo]', x=-1294.49, y=69.94, z=-195.07] died, message: 'Gagik was slain by Zombie'
+[13Jul2025 06:37:41.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Gagik'/58929, l='ServerLevel[Mundo nuevo]', x=-1294.49, y=69.94, z=-195.07] died: Gagik was slain by Zombie
+[13Jul2025 06:37:49.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nicolay'/61358, l='ServerLevel[Mundo nuevo]', x=-1328.80, y=74.00, z=-166.42] died, message: 'Nicolay was slain by Zombie'
+[13Jul2025 06:37:54.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Aghvan'/60708, l='ServerLevel[Mundo nuevo]', x=-1292.59, y=67.94, z=-202.52] died, message: 'Aghvan was slain by Zombie'
+[13Jul2025 06:38:10.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> zinbue mutante
+[13Jul2025 06:38:14.733] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:38:19.427] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vachagan}[style={}] has been infected
+[13Jul2025 06:38:20.384] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 06:38:20.394] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 06:38:21.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:38:23.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vachagan'/58737, l='ServerLevel[Mundo nuevo]', x=-1259.80, y=71.00, z=-162.43] died, message: 'Vachagan was slain by Zombie'
+[13Jul2025 06:38:23.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vachagan'/58737, l='ServerLevel[Mundo nuevo]', x=-1259.80, y=71.00, z=-162.43] died: Vachagan was slain by Zombie
+[13Jul2025 06:38:24.177] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nubar'/61771, l='ServerLevel[Mundo nuevo]', x=-1272.33, y=76.00, z=-119.79] died, message: 'Nubar was slain by Zombie'
+[13Jul2025 06:38:29.383] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Razmik'/61839, l='ServerLevel[Mundo nuevo]', x=-1240.83, y=75.00, z=-121.03] died, message: 'Razmik was slain by Zombie'
+[13Jul2025 06:38:31.230] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Alina}[style={}] has been infected
+[13Jul2025 06:38:32.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Mutant Zombie
+[13Jul2025 06:38:36.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> gg
+[13Jul2025 06:38:38.086] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Alina'/61549, l='ServerLevel[Mundo nuevo]', x=-1316.72, y=74.00, z=-160.30] died, message: 'Alina was slain by Zombie'
+[13Jul2025 06:38:49.340] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:38:52.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved too quickly! 6.962290426718937,-1.4235592945430398,-7.194461436517088
+[13Jul2025 06:38:54.927] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Sonya}[style={}] has been infected
+[13Jul2025 06:38:54.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Sonya'/58914, l='ServerLevel[Mundo nuevo]', x=-1337.60, y=71.00, z=-181.95] died, message: 'Sonya was slain by Zombie'
+[13Jul2025 06:38:54.928] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Sonya'/58914, l='ServerLevel[Mundo nuevo]', x=-1337.60, y=71.00, z=-181.95] died: Sonya was slain by Zombie
+[13Jul2025 06:38:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:39:00.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Andrey'/58932, l='ServerLevel[Mundo nuevo]', x=-1240.50, y=67.00, z=-194.50] died, message: 'Andrey was slain by Mutant Zombie'
+[13Jul2025 06:39:00.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Andrey'/58932, l='ServerLevel[Mundo nuevo]', x=-1240.50, y=67.00, z=-194.50] died: Andrey was slain by Mutant Zombie
+[13Jul2025 06:39:08.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Lilita'/62069, l='ServerLevel[Mundo nuevo]', x=-1259.72, y=66.04, z=-206.57] died, message: 'Lilita was slain by Horde Zombie'
+[13Jul2025 06:39:09.028] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oleg'/62178, l='ServerLevel[Mundo nuevo]', x=-1265.27, y=78.00, z=-109.29] died, message: 'Oleg was slain by Zombie'
+[13Jul2025 06:39:10.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Nver'/58756, l='ServerLevel[Mundo nuevo]', x=-1260.57, y=64.70, z=-213.42] died, message: 'Nver was slain by Horde Zombie'
+[13Jul2025 06:39:10.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Nver'/58756, l='ServerLevel[Mundo nuevo]', x=-1260.57, y=64.70, z=-213.42] died: Nver was slain by Horde Zombie
+[13Jul2025 06:39:28.031] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:39:28.048] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:39:35.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:39:43.335] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED 1995f9bb-b1f7-4766-aaeb-ca729c0d2bd7
+[13Jul2025 06:39:43.483] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Maksim}[style={}] has been infected
