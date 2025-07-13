@@ -8943,3 +8943,100 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 03:56:52.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> we por donde antes de llegar hay cm 20 nidos de dragon
 [13Jul2025 03:57:02.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> vale
 [13Jul2025 03:58:01.566] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.2 and blood value 0 for entity monsters_and_girls:gourdragora_mini
+[13Jul2025 03:58:14.218] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.5 and blood value 10 for entity monsters_and_girls:gourdragora_medium
+[13Jul2025 03:58:14.220] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.5 and blood value 10 for entity monsters_and_girls:gourdragora_medium
+[13Jul2025 03:58:18.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[13Jul2025 03:58:23.954] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.5 and blood value 10 for entity monsters_and_girls:gourdragora_medium
+[13Jul2025 03:58:31.434] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[13Jul2025 03:58:34.866] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 03:58:34.899] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 03:58:36.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2428ms or 48 ticks behind
+[13Jul2025 03:58:42.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> puto lag
+[13Jul2025 03:58:45.087] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 33.579s
+[13Jul2025 03:58:50.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> voy a resurgir
+[13Jul2025 03:58:55.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13Jul2025 03:58:58.005] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 03:59:06.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[13Jul2025 03:59:06.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[13Jul2025 03:59:12.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> plains al finnn
+[13Jul2025 03:59:24.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13Jul2025 03:59:52.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[13Jul2025 03:59:54.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1675, y=23, z=-264}
+[13Jul2025 03:59:59.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ningun girasol
+[13Jul2025 04:00:17.898] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1746, y=33, z=-301}
+[13Jul2025 04:00:18.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[13Jul2025 04:00:19.091] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1771, y=-22, z=-43}
+[13Jul2025 04:00:24.172] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1791, y=-23, z=63}
+[13Jul2025 04:00:26.602] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1808, y=-14, z=-128}
+[13Jul2025 04:00:35.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[13Jul2025 04:00:36.896] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1784, y=-42, z=82}
+[13Jul2025 04:00:38.171] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1704, y=12, z=93}
+[13Jul2025 04:00:41.299] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1851, y=15, z=-134}
+[13Jul2025 04:00:53.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[13Jul2025 04:00:59.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> o q la
+[13Jul2025 04:01:11.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3299ms or 65 ticks behind
+[13Jul2025 04:01:29.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[13Jul2025 04:01:54.341] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1869, y=46, z=-291}
+[13Jul2025 04:02:07.129] [Worker-Main-1/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 89.688s
+[13Jul2025 04:02:09.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1978, y=-30, z=17}
+[13Jul2025 04:02:10.769] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming m_280174_ with desc (Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/level/gameevent/vibrations/VibrationSystem$Data;Lnet/minecraft/world/level/gameevent/vibrations/VibrationSystem$User;Lnet/minecraft/world/level/gameevent/vibrations/VibrationInfo;)Z
+[13Jul2025 04:02:11.141] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1998, y=-7, z=107}
+[13Jul2025 04:02:12.955] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2006, y=14, z=20}
+[13Jul2025 04:02:29.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1986, y=-52, z=255}
+[13Jul2025 04:02:29.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1997, y=-47, z=251}
+[13Jul2025 04:02:29.546] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1972, y=-47, z=247}
+[13Jul2025 04:02:29.547] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1970, y=-47, z=249}
+[13Jul2025 04:02:32.609] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1984, y=-52, z=264}
+[13Jul2025 04:02:32.610] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1985, y=-47, z=269}
+[13Jul2025 04:02:41.956] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2045, y=44, z=322}
+[13Jul2025 04:02:44.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[13Jul2025 04:02:45.275] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1840, y=-49, z=236}
+[13Jul2025 04:02:45.633] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2093, y=-37, z=169}
+[13Jul2025 04:02:45.974] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2088, y=21, z=117}
+[13Jul2025 04:03:02.437] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1843, y=-51, z=446}
+[13Jul2025 04:03:03.420] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2116, y=23, z=193}
+[13Jul2025 04:03:03.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> zzz
+[13Jul2025 04:03:06.643] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1816, y=16, z=416}
+[13Jul2025 04:03:09.014] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2135, y=-5, z=356}
+[13Jul2025 04:03:31.562] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2179, y=-3, z=303}
+[13Jul2025 04:03:32.954] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2187, y=-10, z=317}
+[13Jul2025 04:03:41.967] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2197, y=-49, z=380}
+[13Jul2025 04:03:45.938] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2229, y=8, z=342}
+[13Jul2025 04:04:00.619] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@50208def for service interface com.blamejared.clumps.platform.IEventHelper
+[13Jul2025 04:04:00.619] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@1dd74106 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[13Jul2025 04:04:14.538] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2045, y=22, z=36}
+[13Jul2025 04:04:14.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2083, y=21, z=78}
+[13Jul2025 04:04:16.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2101, y=24, z=113}
+[13Jul2025 04:04:17.739] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2189, y=-34, z=175}
+[13Jul2025 04:04:24.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[13Jul2025 04:04:24.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[13Jul2025 04:04:44.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dejame chuparte
+[13Jul2025 04:05:08.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> me quieren violar ayuda
+[13Jul2025 04:05:13.404] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[13Jul2025 04:05:44.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> mis ojos rojos we
+[13Jul2025 04:05:48.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> los ves?
+[13Jul2025 04:05:56.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> zi
+[13Jul2025 04:05:59.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya va ya va
+[13Jul2025 04:06:12.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> seguro que esto te curara?
+[13Jul2025 04:06:19.425] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[13Jul2025 04:06:22.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> nolo se
+[13Jul2025 04:06:31.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [My Name is Nobody]
+[13Jul2025 04:06:31.825] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2034, y=-51, z=1059}
+[13Jul2025 04:06:31.826] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2020, y=-27, z=1056}
+[13Jul2025 04:06:37.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya
+[13Jul2025 04:06:58.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[13Jul2025 04:07:00.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q
+[13Jul2025 04:07:04.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dice que ya soy vampiro
+[13Jul2025 04:07:05.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> verga
+[13Jul2025 04:07:17.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> vomo curar buscar
+[13Jul2025 04:07:40.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ahoraq
+[13Jul2025 04:07:43.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ten
+[13Jul2025 04:07:51.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> gracias dorga
+[13Jul2025 04:07:52.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ten
+[13Jul2025 04:08:02.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no me sirven mucho
+[13Jul2025 04:08:07.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> igual
+[13Jul2025 04:08:09.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dame sangre
+[13Jul2025 04:08:14.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> como me la saco
+[13Jul2025 04:08:16.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no me deja
+[13Jul2025 04:08:19.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no me deja sacarte
+[13Jul2025 04:08:28.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> deberias matar alla?

@@ -67,6 +67,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-07-13 04:04:17 +0000",
       "shrubland": "2025-07-12 22:15:34 +0000",
       "arid_mountains": "2025-07-12 08:04:13 +0000",
       "dry_bushland": "2025-07-12 07:52:45 +0000",
@@ -78,6 +79,7 @@
       "redstone_caves": "2025-07-12 08:02:57 +0000",
       "grassy_beach": "2025-07-12 10:03:37 +0000",
       "blackwood_taiga": "2025-07-12 22:34:27 +0000",
+      "ochard": "2025-07-13 04:02:52 +0000",
       "tropical_river": "2025-07-12 09:13:55 +0000",
       "eucalyptus_forest": "2025-07-12 07:05:57 +0000",
       "magnolia_highlands": "2025-07-12 10:51:41 +0000",
@@ -102,6 +104,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-07-13 04:04:17 +0000",
       "shrubland": "2025-07-12 22:15:34 +0000",
       "arid_mountains": "2025-07-12 08:04:13 +0000",
       "dry_bushland": "2025-07-12 07:52:45 +0000",
@@ -110,6 +113,7 @@
       "rocky_reef": "2025-07-12 09:12:59 +0000",
       "grassy_beach": "2025-07-12 10:03:37 +0000",
       "blackwood_taiga": "2025-07-12 22:34:27 +0000",
+      "ochard": "2025-07-13 04:02:52 +0000",
       "tropical_river": "2025-07-12 09:13:55 +0000",
       "eucalyptus_forest": "2025-07-12 07:05:57 +0000",
       "magnolia_highlands": "2025-07-12 10:51:41 +0000",
