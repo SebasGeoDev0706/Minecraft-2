@@ -1398,3 +1398,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 01:58:06.787] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Leeann'/8778, l='ServerLevel[Mundo nuevo]', x=-779.68, y=164.42, z=-915.73] died, message: 'Leeann was slain by Vampire'
 [13Jul2025 01:58:06.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Leeann'/8778, l='ServerLevel[Mundo nuevo]', x=-779.68, y=164.42, z=-915.73] died: Leeann was slain by Vampire
 [13Jul2025 01:58:09.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX has made the advancement [Betrayal]
+[13Jul2025 01:58:36.848] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Derrell'/8774, l='ServerLevel[Mundo nuevo]', x=-765.05, y=175.00, z=-881.92] died, message: 'Derrell was slain by Vampire'
+[13Jul2025 01:58:36.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Derrell'/8774, l='ServerLevel[Mundo nuevo]', x=-765.05, y=175.00, z=-881.92] died: Derrell was slain by Vampire
+[13Jul2025 01:58:54.664] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 01:58:54.686] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 01:59:00.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was energized by a dragon
+[13Jul2025 02:00:03.049] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 02:00:03.078] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 02:00:08.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was struck with lightning by a dragon
+[13Jul2025 02:00:44.638] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 02:00:44.655] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 02:00:50.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was struck with lightning by a dragon
+[13Jul2025 02:01:25.632] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TerroncitoTroll is 0b650c72-c2be-41b7-8fc8-5e9e10a11412
+[13Jul2025 02:01:35.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TerroncitoTroll[/127.153.250.51:40631] logged in with entity id 11671 at (-1191.9217379573636, 148.0, -1301.300000011921)
+[13Jul2025 02:01:35.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll joined the game
+[13Jul2025 02:01:36.174] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (872 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=872, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[13Jul2025 02:01:46.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> che uclo corrio
+[13Jul2025 02:01:53.458] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412)
+[13Jul2025 02:01:59.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[13Jul2025 02:02:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> estoy cerca
+[13Jul2025 02:02:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> de la aldea
+[13Jul2025 02:03:02.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> onde nos vemos
+[13Jul2025 02:03:12.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ns
+[13Jul2025 02:03:24.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[13Jul2025 02:03:36.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> dpmtas
+[13Jul2025 02:04:04.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ya estan salienmdo mas zombies en eldia
+[13Jul2025 02:04:13.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> puta niebla
+[13Jul2025 02:04:23.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntityMCA['Natalie'/11076, l='ServerLevel[Mundo nuevo]', x=-815.13, y=172.00, z=-876.72] died, message: 'Natalie (Staying) was slain by Zombie'
+[13Jul2025 02:04:23.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AggressiveVillagerEntityMCA['Natalie'/11076, l='ServerLevel[Mundo nuevo]', x=-815.13, y=172.00, z=-876.72] died: Natalie (Staying) was slain by Zombie
+[13Jul2025 02:05:52.472] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1244, y=142, z=-1739}
+[13Jul2025 02:07:58.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> voy a donde estas
+[13Jul2025 02:08:19.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ando viajando a lo wey
