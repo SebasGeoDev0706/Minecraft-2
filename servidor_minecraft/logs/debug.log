@@ -11258,3 +11258,82 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 06:18:46.244] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@4911126a into net.minecraft.network.Connection@51b6ab81
 [13Jul2025 06:18:46.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll joined the game
 [13Jul2025 06:18:54.023] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED 4a0cfbc0-b43e-4aa6-9e2a-334fa92e7b8e
+[13Jul2025 06:19:11.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> tuve un encuentro enimagtico
+[13Jul2025 06:19:26.846] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412)
+[13Jul2025 06:19:30.440] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: TerroncitoTroll has new faction level vampirism:hunter 2
+[13Jul2025 06:19:30.503] [Server thread/DEBUG] [twilightforest/]: Player TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412) respawned and received items held in storage
+[13Jul2025 06:19:55.774] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:19:55.782] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:20:07.076] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 DISCARDED b7f868c6-3936-4dec-8e1d-8c6e77e33b1e
+[13Jul2025 06:20:09.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q rico es morir apenas aparecer
+[13Jul2025 06:20:15.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:20:17.306] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: TerroncitoTroll has new faction level vampirism:hunter 2
+[13Jul2025 06:20:17.384] [Server thread/DEBUG] [twilightforest/]: Player TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412) respawned and received items held in storage
+[13Jul2025 06:20:26.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a poco si muy vergas araña
+[13Jul2025 06:20:36.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> deja invoco a satanas a ver si muy muy
+[13Jul2025 06:20:42.626] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:20:42.633] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:20:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:20:51.598] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: TerroncitoTroll has new faction level vampirism:hunter 2
+[13Jul2025 06:20:51.661] [Server thread/DEBUG] [twilightforest/]: Player TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412) respawned and received items held in storage
+[13Jul2025 06:21:18.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> iluminame
+[13Jul2025 06:21:18.977] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:21:18.984] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:21:27.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:21:28.736] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: TerroncitoTroll has new faction level vampirism:hunter 2
+[13Jul2025 06:21:28.801] [Server thread/DEBUG] [twilightforest/]: Player TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412) respawned and received items held in storage
+[13Jul2025 06:21:31.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Applied effect Night Vision to TerroncitoTroll]
+[13Jul2025 06:21:35.845] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[13Jul2025 06:21:36.473] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:21:40.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[13Jul2025 06:21:48.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:21:49.595] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: TerroncitoTroll has new faction level vampirism:hunter 2
+[13Jul2025 06:21:49.669] [Server thread/DEBUG] [twilightforest/]: Player TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412) respawned and received items held in storage
+[13Jul2025 06:22:00.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nmss cabron un golpe me dejo a medio xora
+[13Jul2025 06:22:11.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> esta facil
+[13Jul2025 06:22:41.815] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[13Jul2025 06:23:05.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ay wey
+[13Jul2025 06:23:09.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q
+[13Jul2025 06:23:44.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[13Jul2025 06:23:44.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[13Jul2025 06:24:11.976] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:24:11.983] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:24:18.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:24:19.898] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: TerroncitoTroll has new faction level vampirism:hunter 2
+[13Jul2025 06:24:19.972] [Server thread/DEBUG] [twilightforest/]: Player TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412) respawned and received items held in storage
+[13Jul2025 06:25:23.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ash
+[13Jul2025 06:25:27.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> XD
+[13Jul2025 06:25:34.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> mirenlo todo chiquito y menso
+[13Jul2025 06:25:52.838] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in witherstormmod:bowels
+[13Jul2025 06:26:21.176] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:26:21.187] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:26:27.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:26:28.652] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: TerroncitoTroll has new faction level vampirism:hunter 2
+[13Jul2025 06:26:28.728] [Server thread/DEBUG] [twilightforest/]: Player TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412) respawned and received items held in storage
+[13Jul2025 06:27:01.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> xd
+[13Jul2025 06:27:11.174] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:27:11.192] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:27:17.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:27:18.581] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: TerroncitoTroll has new faction level vampirism:hunter 2
+[13Jul2025 06:27:18.652] [Server thread/DEBUG] [twilightforest/]: Player TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412) respawned and received items held in storage
+[13Jul2025 06:27:19.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> dos hit
+[13Jul2025 06:27:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q pedo con los zombies q tedejan aturdidos
+[13Jul2025 06:27:38.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> simon
+[13Jul2025 06:27:48.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> MADE IN HEAVEN
+[13Jul2025 06:27:52.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> no we
+[13Jul2025 06:28:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> solo una puta haria eso
+[13Jul2025 06:28:18.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ./commandblock time add 100 repeat always activate
+[13Jul2025 06:28:26.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ay ay soy una puta
+[13Jul2025 06:28:41.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> me da risa como solo te ves corriendo
+[13Jul2025 06:28:44.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[13Jul2025 06:28:44.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[13Jul2025 06:28:53.380] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:29:02.577] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 06:29:09.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:29:10.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[13Jul2025 06:29:10.929] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: TerroncitoTroll has new faction level vampirism:hunter 2
+[13Jul2025 06:29:11.003] [Server thread/DEBUG] [twilightforest/]: Player TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412) respawned and received items held in storage
+[13Jul2025 06:29:11.881] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: KekinX has new faction level vampirism:hunter 1
+[13Jul2025 06:29:11.939] [Server thread/DEBUG] [twilightforest/]: Player KekinX (82696d49-acbf-46fc-9653-93cc5b790916) respawned and received items held in storage
+[13Jul2025 06:29:14.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ya mos por las cosas
+[13Jul2025 06:29:22.831] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
