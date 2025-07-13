@@ -6,3 +6,74 @@
 [13Jul2025 00:02:27.544] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1511, y=-26, z=-648}
 [13Jul2025 00:02:31.143] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1521, y=7, z=-952}
 [13Jul2025 00:02:36.940] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1542, y=36, z=-850}
+[13Jul2025 00:11:35.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll moved wrongly!
+[13Jul2025 00:11:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ay wey
+[13Jul2025 00:13:46.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> aywy
+[13Jul2025 00:14:38.593] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 00:14:38.601] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 00:14:51.105] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 00:15:43.549] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 00:15:56.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Horde Zombie
+[13Jul2025 00:15:57.198] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 30 UNLOADED_TO_CHUNK 9c4fe5c3-db1c-4895-ab2d-b83b887d387c
+[13Jul2025 00:15:57.198] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 29 UNLOADED_TO_CHUNK e76965b0-6a88-4297-995b-31bfb2326cfa
+[13Jul2025 00:15:57.198] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 28 UNLOADED_TO_CHUNK af057388-f859-4c84-b71c-71dc4445c29d
+[13Jul2025 00:15:57.198] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 27 UNLOADED_TO_CHUNK e1638676-8414-4f3e-b61f-d5907ad5059a
+[13Jul2025 00:15:57.198] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 26 UNLOADED_TO_CHUNK 9c2ce04c-bd60-4f7f-abfc-a4382a222787
+[13Jul2025 00:15:57.198] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 25 UNLOADED_TO_CHUNK 1ad9cb2c-39e0-41c9-9c7f-dad2c66cc670
+[13Jul2025 00:15:57.198] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 24 UNLOADED_TO_CHUNK 13d9f266-da08-4eb4-8fd2-e3eb4b8096bf
+[13Jul2025 00:15:57.198] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 23 UNLOADED_TO_CHUNK d50c8212-bc8c-4807-9322-71d929f2d0aa
+[13Jul2025 00:15:57.201] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 22 UNLOADED_TO_CHUNK b64f159f-795d-4cdd-a43d-89c2f866ca60
+[13Jul2025 00:15:57.201] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 21 UNLOADED_TO_CHUNK 04746ce9-89ef-467b-b7b8-0e236833b649
+[13Jul2025 00:15:57.201] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 20 UNLOADED_TO_CHUNK 9d3f50a5-9c58-49e6-8487-1db2110999ad
+[13Jul2025 00:15:57.201] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 19 UNLOADED_TO_CHUNK 3bbc1038-8bf8-409c-9e37-3c15543415d4
+[13Jul2025 00:15:57.203] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 18 UNLOADED_TO_CHUNK 36b1cc35-28ad-414e-874a-1e6f8ac754bc
+[13Jul2025 00:15:57.203] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 17 UNLOADED_TO_CHUNK c71d77a8-e4e5-4931-950d-79f5252b9c4d
+[13Jul2025 00:15:57.203] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 16 UNLOADED_TO_CHUNK 3e50bde5-4a2d-4f62-bf8a-fec2c7df15b9
+[13Jul2025 00:15:57.203] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 15 UNLOADED_TO_CHUNK 2f451259-fa27-40aa-91a7-03f0091b0053
+[13Jul2025 00:15:57.203] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 14 UNLOADED_TO_CHUNK 89ac9828-b252-4dbe-a73d-8d1d8cb3fd3c
+[13Jul2025 00:15:57.203] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 13 UNLOADED_TO_CHUNK 4132893d-3df0-4444-949a-db603db6780b
+[13Jul2025 00:15:57.203] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 12 UNLOADED_TO_CHUNK 92fa24c7-20f3-4384-9106-459681543057
+[13Jul2025 00:15:57.204] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 11 UNLOADED_TO_CHUNK df998988-ef09-4ab4-a7ee-0d9ac9bc243d
+[13Jul2025 00:15:57.204] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 10 UNLOADED_TO_CHUNK 5906e87b-ba65-42eb-b9c6-65355c6b4ed5
+[13Jul2025 00:15:57.205] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 9 UNLOADED_TO_CHUNK 97c14573-c98d-4401-b89d-26efbab9713f
+[13Jul2025 00:15:57.205] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 8 UNLOADED_TO_CHUNK 9a611e0d-dd07-485e-be50-0697764bf844
+[13Jul2025 00:15:57.205] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 7 UNLOADED_TO_CHUNK d56806c6-f6b0-4f67-862a-de9261aacc9d
+[13Jul2025 00:15:57.205] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 6 UNLOADED_TO_CHUNK b55df9d1-7fa4-43cf-9dbb-b8f03927eb40
+[13Jul2025 00:15:57.205] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 5 UNLOADED_TO_CHUNK 832663fb-466d-4a38-a53f-77f2611066e0
+[13Jul2025 00:15:57.205] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 UNLOADED_TO_CHUNK a69c4608-3acb-419b-bf40-f4783680a800
+[13Jul2025 00:15:58.398] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 UNLOADED_TO_CHUNK 0323e878-2703-498a-9454-6a1e8b04085c
+[13Jul2025 00:15:58.398] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 UNLOADED_TO_CHUNK 8d25cc49-d2fc-4ed8-b709-991fac485899
+[13Jul2025 00:15:58.398] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 UNLOADED_TO_CHUNK 9c35eef6-df61-4140-b9ee-8fd7aaa33a67
+[13Jul2025 00:16:24.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> aaa
+[13Jul2025 00:16:32.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll lost connection: Timed out
+[13Jul2025 00:16:32.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll left the game
+[13Jul2025 00:16:32.093] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 30 UNLOADED_TO_CHUNK 9c4fe5c3-db1c-4895-ab2d-b83b887d387c
+[13Jul2025 00:16:32.093] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 29 UNLOADED_TO_CHUNK e76965b0-6a88-4297-995b-31bfb2326cfa
+[13Jul2025 00:16:32.093] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 28 UNLOADED_TO_CHUNK af057388-f859-4c84-b71c-71dc4445c29d
+[13Jul2025 00:16:32.093] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 27 UNLOADED_TO_CHUNK e1638676-8414-4f3e-b61f-d5907ad5059a
+[13Jul2025 00:16:32.093] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 26 UNLOADED_TO_CHUNK 9c2ce04c-bd60-4f7f-abfc-a4382a222787
+[13Jul2025 00:16:32.094] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 25 UNLOADED_TO_CHUNK 1ad9cb2c-39e0-41c9-9c7f-dad2c66cc670
+[13Jul2025 00:16:32.094] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 24 UNLOADED_TO_CHUNK 13d9f266-da08-4eb4-8fd2-e3eb4b8096bf
+[13Jul2025 00:16:32.094] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 23 UNLOADED_TO_CHUNK c71d77a8-e4e5-4931-950d-79f5252b9c4d
+[13Jul2025 00:16:32.095] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 22 UNLOADED_TO_CHUNK 3e50bde5-4a2d-4f62-bf8a-fec2c7df15b9
+[13Jul2025 00:16:32.097] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 21 UNLOADED_TO_CHUNK b64f159f-795d-4cdd-a43d-89c2f866ca60
+[13Jul2025 00:16:32.097] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 20 UNLOADED_TO_CHUNK 04746ce9-89ef-467b-b7b8-0e236833b649
+[13Jul2025 00:16:32.097] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 19 UNLOADED_TO_CHUNK 0323e878-2703-498a-9454-6a1e8b04085c
+[13Jul2025 00:16:32.097] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 18 UNLOADED_TO_CHUNK d56806c6-f6b0-4f67-862a-de9261aacc9d
+[13Jul2025 00:16:32.098] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 17 UNLOADED_TO_CHUNK 8d25cc49-d2fc-4ed8-b709-991fac485899
+[13Jul2025 00:16:32.098] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 16 UNLOADED_TO_CHUNK 9c35eef6-df61-4140-b9ee-8fd7aaa33a67
+[13Jul2025 00:16:32.098] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 15 UNLOADED_TO_CHUNK 5906e87b-ba65-42eb-b9c6-65355c6b4ed5
+[13Jul2025 00:16:32.098] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 14 UNLOADED_TO_CHUNK b55df9d1-7fa4-43cf-9dbb-b8f03927eb40
+[13Jul2025 00:16:32.098] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 13 UNLOADED_TO_CHUNK 832663fb-466d-4a38-a53f-77f2611066e0
+[13Jul2025 00:16:32.099] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 12 UNLOADED_TO_CHUNK 36b1cc35-28ad-414e-874a-1e6f8ac754bc
+[13Jul2025 00:16:32.100] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 11 UNLOADED_TO_CHUNK 2f451259-fa27-40aa-91a7-03f0091b0053
+[13Jul2025 00:16:32.101] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 10 UNLOADED_TO_CHUNK 89ac9828-b252-4dbe-a73d-8d1d8cb3fd3c
+[13Jul2025 00:16:32.101] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 9 UNLOADED_TO_CHUNK 4132893d-3df0-4444-949a-db603db6780b
+[13Jul2025 00:16:32.101] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 8 UNLOADED_TO_CHUNK 92fa24c7-20f3-4384-9106-459681543057
+[13Jul2025 00:16:32.101] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 7 UNLOADED_TO_CHUNK d50c8212-bc8c-4807-9322-71d929f2d0aa
+[13Jul2025 00:16:32.102] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 6 UNLOADED_TO_CHUNK 97c14573-c98d-4401-b89d-26efbab9713f
+[13Jul2025 00:16:32.102] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 5 UNLOADED_TO_CHUNK 9a611e0d-dd07-485e-be50-0697764bf844
+[13Jul2025 00:16:32.102] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 UNLOADED_TO_CHUNK 3bbc1038-8bf8-409c-9e37-3c15543415d4
+[13Jul2025 00:16:32.102] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 UNLOADED_TO_CHUNK df998988-ef09-4ab4-a7ee-0d9ac9bc243d
+[13Jul2025 00:16:32.103] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 UNLOADED_TO_CHUNK 9d3f50a5-9c58-49e6-8487-1db2110999ad
+[13Jul2025 00:16:32.103] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 UNLOADED_TO_CHUNK a69c4608-3acb-419b-bf40-f4783680a800
