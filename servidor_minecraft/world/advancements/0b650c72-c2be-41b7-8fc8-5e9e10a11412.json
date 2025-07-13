@@ -72,11 +72,13 @@
       "rocky_reef": "2025-07-12 22:24:37 +0000",
       "redstone_caves": "2025-07-12 08:03:51 +0000",
       "scorching_caves": "2025-07-12 10:02:02 +0000",
+      "rocky_meadow": "2025-07-13 03:40:20 +0000",
       "tropical_river": "2025-07-12 07:20:52 +0000",
       "eucalyptus_forest": "2025-07-12 07:07:55 +0000",
       "outback": "2025-07-12 06:48:23 +0000",
       "sparse_redwoods": "2025-07-12 10:00:06 +0000",
       "deciduous_forest": "2025-07-12 08:03:42 +0000",
+      "bamboo_forest": "2025-07-13 03:34:11 +0000",
       "saguaro_desert": "2025-07-12 06:21:34 +0000",
       "baobab_savanna": "2025-07-12 09:16:19 +0000",
       "grassland": "2025-07-12 07:16:13 +0000",
@@ -88,11 +90,13 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "rocky_reef": "2025-07-12 22:24:37 +0000",
+      "rocky_meadow": "2025-07-13 03:40:20 +0000",
       "tropical_river": "2025-07-12 07:20:52 +0000",
       "eucalyptus_forest": "2025-07-12 07:07:55 +0000",
       "outback": "2025-07-12 06:48:23 +0000",
       "sparse_redwoods": "2025-07-12 10:00:06 +0000",
       "deciduous_forest": "2025-07-12 08:03:42 +0000",
+      "bamboo_forest": "2025-07-13 03:34:11 +0000",
       "saguaro_desert": "2025-07-12 06:21:34 +0000",
       "baobab_savanna": "2025-07-12 09:16:19 +0000",
       "grassland": "2025-07-12 07:16:13 +0000",
@@ -682,6 +686,12 @@
       "has_item": "2025-07-13 02:37:45 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_giant_tree_taiga": "2025-07-13 03:12:45 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
