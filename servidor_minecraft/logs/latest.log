@@ -2566,3 +2566,79 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 06:08:26.653] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2147, y=31, z=-652}
 [13Jul2025 06:08:37.597] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2293, y=-34, z=-700}
 [13Jul2025 06:08:41.500] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1976, y=21, z=-594}
+[13Jul2025 06:08:48.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ostras
+[13Jul2025 06:08:50.010] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2347, y=132, z=-731}
+[13Jul2025 06:08:50.129] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2211, y=7, z=-735}
+[13Jul2025 06:08:52.015] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2114, y=22, z=-747}
+[13Jul2025 06:08:54.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13Jul2025 06:08:57.050] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2337, y=21, z=-757}
+[13Jul2025 06:08:57.052] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2335, y=-45, z=-754}
+[13Jul2025 06:08:57.052] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2334, y=-17, z=-756}
+[13Jul2025 06:09:08.736] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2389, y=-16, z=-771}
+[13Jul2025 06:09:12.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> trp;eadp
+[13Jul2025 06:09:14.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q raro
+[13Jul2025 06:09:14.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> troleado
+[13Jul2025 06:09:24.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> iglu de tierra
+[13Jul2025 06:09:40.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> en el vih si me sdalio lo de a;deano
+[13Jul2025 06:09:41.281] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:09:43.777] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 06:09:43.789] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 06:09:46.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> DXD
+[13Jul2025 06:09:55.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> le picaste ala cama_
+[13Jul2025 06:10:05.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no recuerdo creo q no XD
+[13Jul2025 06:10:07.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> picale
+[13Jul2025 06:10:10.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> le puedes pciar aun
+[13Jul2025 06:10:20.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no deja xdxdxd
+[13Jul2025 06:10:34.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> gasta tus niveles
+[13Jul2025 06:10:36.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> antes de morir
+[13Jul2025 06:10:37.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[13Jul2025 06:10:41.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:10:45.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no tenia
+[13Jul2025 06:10:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> uf
+[13Jul2025 06:11:05.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> hasta aqui llegamos
+[13Jul2025 06:11:13.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> yo no me rindo
+[13Jul2025 06:11:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> donde qeuda la tumba
+[13Jul2025 06:11:42.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> hasta los 2000 bloques
+[13Jul2025 06:11:48.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> si llegamos
+[13Jul2025 06:12:34.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> xd
+[13Jul2025 06:12:35.134] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 06:12:35.141] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 06:12:37.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> q listo
+[13Jul2025 06:12:37.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX tried to swim in lava
+[13Jul2025 06:12:37.150] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 06:12:51.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ostras otra piramide
+[13Jul2025 06:13:42.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ay wey
+[13Jul2025 06:13:47.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q
+[13Jul2025 06:13:49.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> muchas cosas pero a la vez nada
+[13Jul2025 06:13:59.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> MEXICANOS
+[13Jul2025 06:14:17.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> me rindo
+[13Jul2025 06:14:23.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> sere tarzan ahora
+[13Jul2025 06:14:36.475] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 06:14:36.490] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 06:14:45.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> XD
+[13Jul2025 06:14:47.027] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:14:47.037] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:14:59.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Horde Zombie
+[13Jul2025 06:15:06.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no fui aceptado... :smiling_face_with_tear:
+[13Jul2025 06:15:17.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Gorilla
+[13Jul2025 06:15:18.188] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK ffa25a1f-3374-4adb-b9b4-a9e6bf05ebf7
+[13Jul2025 06:15:26.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya me dio weba
+[13Jul2025 06:15:26.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> voy y vuelgo
+[13Jul2025 06:15:29.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll lost connection: Disconnected
+[13Jul2025 06:15:29.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll left the game
+[13Jul2025 06:16:34.382] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TerroncitoTroll is 0b650c72-c2be-41b7-8fc8-5e9e10a11412
+[13Jul2025 06:16:47.848] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TerroncitoTroll[/127.153.250.51:47853] logged in with entity id 51219 at (9.5, 80.0, -1.5)
+[13Jul2025 06:16:47.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll joined the game
+[13Jul2025 06:17:19.586] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412)
+[13Jul2025 06:17:31.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya volvi q paso?
+[13Jul2025 06:17:51.727] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:17:51.736] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:18:02.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll lost connection: Timed out
+[13Jul2025 06:18:02.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll left the game
+[13Jul2025 06:18:02.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
+[13Jul2025 06:18:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya destruimos el mundo?
+[13Jul2025 06:18:24.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KekinX: Gave 1 [Wither Skeleton Skull] to KekinX]
+[13Jul2025 06:18:31.205] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TerroncitoTroll is 0b650c72-c2be-41b7-8fc8-5e9e10a11412
+[13Jul2025 06:18:46.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TerroncitoTroll[/127.153.250.51:33313] logged in with entity id 51589 at (9.5, 80.0, -1.5)
+[13Jul2025 06:18:46.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll joined the game
+[13Jul2025 06:18:54.023] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED 4a0cfbc0-b43e-4aa6-9e2a-334fa92e7b8e

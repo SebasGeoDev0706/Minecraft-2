@@ -667,5 +667,11 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-07-13 06:08:58 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
