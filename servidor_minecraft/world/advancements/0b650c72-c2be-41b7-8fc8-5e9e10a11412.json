@@ -599,88 +599,21 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 00:15:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 00:15:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 00:15:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 00:15:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 00:15:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-13 00:15:54 +0000",
-      "log_spam_fixer": "2025-07-13 00:15:46 +0000"
+      "killed_by": "2025-07-12 23:35:39 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 00:15:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 00:15:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 00:15:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 00:15:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 00:15:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 00:15:46 +0000"
-    },
-    "done": false
-  },
-  "mca:recipes/misc/family_tree": {
-    "criteria": {
-      "has_item": "2025-07-13 00:04:04 +0000"
+      "killed_by": "2025-07-12 23:38:10 +0000"
     },
     "done": true
   },
-  "vampirism:main/ancient_knowledge": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "blood_container": "2025-07-12 23:59:54 +0000"
+      "voluntary_exile": "2025-07-12 23:43:03 +0000"
     },
     "done": true
   },
@@ -696,27 +629,100 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-07-12 23:59:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-07-13 00:04:04 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-07-13 00:04:58 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/tarantula_hawk": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "killed_by": "2025-07-12 23:35:39 +0000"
+      "log_spam_fixer": "2025-07-13 00:32:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:32:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:32:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:32:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:32:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-07-13 00:32:46 +0000",
+      "log_spam_fixer": "2025-07-13 00:32:46 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "incendium:technical/firestorm": {
     "criteria": {
-      "voluntary_exile": "2025-07-12 23:43:03 +0000"
+      "log_spam_fixer": "2025-07-13 00:32:46 +0000"
     },
-    "done": true
+    "done": false
   },
-  "alexsmobs:alexsmobs/kangaroo": {
+  "incendium:technical/holy_wrath": {
     "criteria": {
-      "killed_by": "2025-07-12 23:38:10 +0000"
+      "log_spam_fixer": "2025-07-13 00:32:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:32:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:32:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:32:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-13 00:32:46 +0000"
+    },
+    "done": false
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-07-13 00:31:10 +0000"
     },
     "done": true
   },
