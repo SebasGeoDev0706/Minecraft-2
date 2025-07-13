@@ -2772,3 +2772,96 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 06:39:35.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was slain by Zombie
 [13Jul2025 06:39:43.335] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED 1995f9bb-b1f7-4766-aaeb-ca729c0d2bd7
 [13Jul2025 06:39:43.483] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Maksim}[style={}] has been infected
+[13Jul2025 06:39:51.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> y si mejor mimimos
+[13Jul2025 06:40:01.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> si se pudiera we
+[13Jul2025 06:40:03.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Alesha'/62366, l='ServerLevel[Mundo nuevo]', x=-1279.09, y=76.00, z=-128.91] died, message: 'Alesha was slain by Zombie'
+[13Jul2025 06:40:04.833] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zaur'/62784, l='ServerLevel[Mundo nuevo]', x=-1280.20, y=76.00, z=-130.92] died, message: 'Zaur was slain by Zombie'
+[13Jul2025 06:40:05.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Maksim'/62593, l='ServerLevel[Mundo nuevo]', x=-1269.22, y=62.47, z=-250.18] died, message: 'Maksim was slain by Zombie'
+[13Jul2025 06:40:21.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> salte
+[13Jul2025 06:40:23.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> yo pude
+[13Jul2025 06:40:26.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KekinX lost connection: Disconnected
+[13Jul2025 06:40:26.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX left the game
+[13Jul2025 06:40:30.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Herbert'/58791, l='ServerLevel[Mundo nuevo]', x=-1283.62, y=75.64, z=-135.67] died, message: 'Herbert was slain by Zombie'
+[13Jul2025 06:40:30.176] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Herbert'/58791, l='ServerLevel[Mundo nuevo]', x=-1283.62, y=75.64, z=-135.67] died: Herbert was slain by Zombie
+[13Jul2025 06:40:30.281] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Alexander}[style={}] has been infected
+[13Jul2025 06:40:32.424] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Alexander}[style={}] has been infected
+[13Jul2025 06:40:32.781] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Alexander'/62725, l='ServerLevel[Mundo nuevo]', x=-1296.53, y=68.00, z=-211.47] died, message: 'Alexander was slain by Zombie'
+[13Jul2025 06:40:39.421] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alisa'/62910, l='ServerLevel[Mundo nuevo]', x=-1290.72, y=73.42, z=-145.31] died, message: 'Alisa was slain by Zombie'
+[13Jul2025 06:40:41.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Lena'/58933, l='ServerLevel[Mundo nuevo]', x=-1283.93, y=73.00, z=-146.88] died, message: 'Lena was slain by Zombie'
+[13Jul2025 06:40:41.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Lena'/58933, l='ServerLevel[Mundo nuevo]', x=-1283.93, y=73.00, z=-146.88] died: Lena was slain by Zombie
+[13Jul2025 06:41:01.687] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KekinX is 82696d49-acbf-46fc-9653-93cc5b790916
+[13Jul2025 06:41:06.722] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:41:06.742] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:41:08.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KekinX[/127.171.159.57:49339] logged in with entity id 63391 at (-1278.300000011921, 76.5, -136.76871075860936)
+[13Jul2025 06:41:08.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX joined the game
+[13Jul2025 06:41:09.084] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KekinX (82696d49-acbf-46fc-9653-93cc5b790916)
+[13Jul2025 06:41:12.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll went up in flames
+[13Jul2025 06:41:13.235] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:41:17.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> un dragon
+[13Jul2025 06:41:22.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Samvel'/58792, l='ServerLevel[Mundo nuevo]', x=-1340.20, y=78.18, z=-148.21] died, message: 'Samvel was slain by Spider'
+[13Jul2025 06:41:22.677] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Samvel'/58792, l='ServerLevel[Mundo nuevo]', x=-1340.20, y=78.18, z=-148.21] died: Samvel was slain by Spider
+[13Jul2025 06:41:25.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> de todo alv
+[13Jul2025 06:41:36.778] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 06:41:36.794] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 06:41:37.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> we y habia otro muerto
+[13Jul2025 06:41:44.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> los zombies se lo papearon
+[13Jul2025 06:41:49.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[13Jul2025 06:41:55.178] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 06:41:55.187] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 06:41:56.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> weee
+[13Jul2025 06:41:58.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tatiana'/63706, l='ServerLevel[Mundo nuevo]', x=-1251.79, y=71.00, z=-175.51] died, message: 'Tatiana was slain by Zombie'
+[13Jul2025 06:42:01.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> encontr perla
+[13Jul2025 06:42:03.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[13Jul2025 06:42:06.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ruzanna'/63798, l='ServerLevel[Mundo nuevo]', x=-1273.68, y=69.00, z=-185.05] died, message: 'Ruzanna was slain by Zombie'
+[13Jul2025 06:42:19.031] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 06:42:19.040] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 06:42:26.626] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 06:42:26.641] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 06:42:27.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX was slain by Zombie
+[13Jul2025 06:42:32.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll was turned into KFC by a dragon
+[13Jul2025 06:42:40.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya me aburrio este pedo
+[13Jul2025 06:42:45.329] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tigran'/64152, l='ServerLevel[Mundo nuevo]', x=-1261.34, y=83.44, z=-151.43] died, message: 'Tigran was slain by Mutant Zombie'
+[13Jul2025 06:42:54.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntityMCA['Harri'/63185, l='ServerLevel[Mundo nuevo]', x=-1253.19, y=70.00, z=-174.79] died, message: 'Harri was slain by Mutant Zombie'
+[13Jul2025 06:43:01.429] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marine'/64318, l='ServerLevel[Mundo nuevo]', x=-1234.90, y=80.44, z=-165.96] died, message: 'Marine was slain by Mutant Zombie'
+[13Jul2025 06:43:02.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [The Most Useful Key]
+[13Jul2025 06:43:08.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has reached the goal [A Fast Comeback]
+[13Jul2025 06:43:09.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> gg
+[13Jul2025 06:43:37.585] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1691, y=-39, z=-377}
+[13Jul2025 06:43:39.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> gracias perla
+[13Jul2025 06:43:41.753] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1703, y=4, z=-407}
+[13Jul2025 06:43:51.908] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1740, y=-22, z=-407}
+[13Jul2025 06:43:53.202] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1746, y=-37, z=-353}
+[13Jul2025 06:43:54.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> q te tumben XD
+[13Jul2025 06:44:03.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TerroncitoTroll lost connection: Timed out
+[13Jul2025 06:44:03.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll left the game
+[13Jul2025 06:44:05.988] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1729, y=-5, z=-468}
+[13Jul2025 06:44:06.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Iosif'/65342, l='ServerLevel[Mundo nuevo]', x=-1655.17, y=80.00, z=-387.82] died, message: 'Iosif was slain by Fire Dragon'
+[13Jul2025 06:44:06.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Iosif'/65342, l='ServerLevel[Mundo nuevo]', x=-1655.17, y=80.00, z=-387.82] died: Iosif was slain by Fire Dragon
+[13Jul2025 06:44:07.749] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1820, y=-32, z=-488}
+[13Jul2025 06:44:17.874] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1654, y=-47, z=-524}
+[13Jul2025 06:44:17.880] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1716, y=13, z=-518}
+[13Jul2025 06:45:30.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1791, y=-41, z=-640}
+[13Jul2025 06:45:55.018] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TerroncitoTroll is 0b650c72-c2be-41b7-8fc8-5e9e10a11412
+[13Jul2025 06:46:06.571] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1889, y=-2, z=-615}
+[13Jul2025 06:46:08.173] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 06:46:08.185] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 06:46:10.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TerroncitoTroll[/127.153.250.51:46333] logged in with entity id 66973 at (-2194.2077742698766, 86.0, -540.1478509592898)
+[13Jul2025 06:46:10.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll joined the game
+[13Jul2025 06:46:11.386] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (671 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=671, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[13Jul2025 06:46:18.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX burned to death
+[13Jul2025 06:46:18.569] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 06:46:35.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1674, y=80, z=-424} BlockPos{x=-1673, y=79, z=-425}
+[13Jul2025 06:46:35.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1674, y=80, z=-424} BlockPos{x=-1673, y=79, z=-425}
+[13Jul2025 06:46:35.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1674, y=80, z=-424} BlockPos{x=-1673, y=79, z=-425}
+[13Jul2025 06:46:35.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1674, y=81, z=-426} BlockPos{x=-1674, y=79, z=-425}
+[13Jul2025 06:46:43.116] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to TerroncitoTroll (0b650c72-c2be-41b7-8fc8-5e9e10a11412)
+[13Jul2025 06:46:52.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ven we
+[13Jul2025 06:47:23.244] [Server thread/WARN] [tombstone/]: The death event of the player KekinX was canceled by another mod
+[13Jul2025 06:47:23.294] [Server thread/INFO] [tombstone/]: The player KekinX has successfully been saved
+[13Jul2025 06:47:30.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX burned to death
+[13Jul2025 06:48:01.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> ya casi
+[13Jul2025 06:48:47.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> por cierto ahora como somos cazadores podemos guardar spawn en las tiendas de acampar de los hunters
+[13Jul2025 06:49:00.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> si
+[13Jul2025 06:49:54.747] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2228, y=30, z=-799}
+[13Jul2025 06:49:56.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> te trajiste al dragon
+[13Jul2025 06:50:01.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> non

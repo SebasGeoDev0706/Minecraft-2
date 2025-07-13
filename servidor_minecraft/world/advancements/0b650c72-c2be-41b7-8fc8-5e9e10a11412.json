@@ -754,5 +754,17 @@
     },
     "done": false
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-07-13 06:43:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-13 06:43:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
