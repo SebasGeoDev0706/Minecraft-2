@@ -243,7 +243,8 @@
       "glow_berries": "2025-07-12 09:52:16 +0000",
       "salmon": "2025-07-12 06:35:57 +0000",
       "melon_slice": "2025-07-12 09:59:33 +0000",
-      "enchanted_golden_apple": "2025-07-12 23:23:16 +0000"
+      "enchanted_golden_apple": "2025-07-12 23:23:16 +0000",
+      "carrot": "2025-07-13 02:52:56 +0000"
     },
     "done": false
   },
@@ -675,78 +676,6 @@
       "tamed_animal": "2025-07-13 00:57:28 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 02:39:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 02:39:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 02:39:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 02:39:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 02:39:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 02:39:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 02:39:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 02:39:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 02:39:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 02:39:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 02:39:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-13 02:39:19 +0000"
-    },
-    "done": false
   },
   "mca:recipes/misc/bouquet": {
     "criteria": {
