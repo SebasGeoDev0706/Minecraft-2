@@ -1363,3 +1363,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Jul2025 03:45:04.912] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2188, y=-4, z=1003}
 [13Jul2025 03:45:28.811] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2302, y=1, z=656}
 [13Jul2025 03:45:53.288] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2178, y=-47, z=494}
+[13Jul2025 03:50:15.771] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 03:50:15.839] [Server thread/INFO] [tombstone/]: The player TerroncitoTroll has successfully been saved
+[13Jul2025 03:50:37.725] [Server thread/WARN] [tombstone/]: The death event of the player TerroncitoTroll was canceled by another mod
+[13Jul2025 03:53:31.798] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player KekinX is 82696d49-acbf-46fc-9653-93cc5b790916
+[13Jul2025 03:53:43.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KekinX[/127.171.159.57:49621] logged in with entity id 12045 at (-1182.9591728544226, 67.0, -671.9604521371365)
+[13Jul2025 03:53:43.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KekinX joined the game
+[13Jul2025 03:53:44.519] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (925 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=925, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[13Jul2025 03:53:52.899] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KekinX (82696d49-acbf-46fc-9653-93cc5b790916)
+[13Jul2025 03:54:02.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> estan rotos los ciclopes
+[13Jul2025 03:54:12.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> nah id win
+[13Jul2025 03:54:37.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> ya tengo ajo
+[13Jul2025 03:54:41.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> quieres ser curada_
+[13Jul2025 03:54:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> si
+[13Jul2025 03:54:52.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> va donde nos vemos?
+[13Jul2025 03:55:00.408] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2140, y=-36, z=418}
+[13Jul2025 03:55:04.745] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1967, y=29, z=402}
+[13Jul2025 03:55:10.541] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2330, y=-15, z=748}
+[13Jul2025 03:55:12.007] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2298, y=5, z=407}
+[13Jul2025 03:55:12.031] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1875, y=5, z=393}
+[13Jul2025 03:55:12.617] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1870, y=35, z=449}
+[13Jul2025 03:55:14.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> qres venir
+[13Jul2025 03:55:28.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a donde?
+[13Jul2025 03:55:40.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> donde estoy matando al ciclope
+[13Jul2025 03:56:01.221] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1856, y=-29, z=455}
+[13Jul2025 03:56:18.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> [name:"yo", x:-2052, y:69, z:700, dim:minecraft:overworld]
+[13Jul2025 03:56:22.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a cuanto te queda
+[13Jul2025 03:56:28.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> no te veo
+[13Jul2025 03:56:38.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> a unos 1000
+[13Jul2025 03:56:52.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> we por donde antes de llegar hay cm 20 nidos de dragon
+[13Jul2025 03:57:02.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KekinX> vale
