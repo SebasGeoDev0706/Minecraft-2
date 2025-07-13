@@ -197,3 +197,7 @@
 [13Jul2025 00:46:16.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ConvertedVillagerEntityMCA['Clifford'/140664, l='ServerLevel[Mundo nuevo]', x=-793.98, y=178.00, z=-855.51] died: Clifford was slain by Clifford
 [13Jul2025 00:46:27.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [What a Deal!]
 [13Jul2025 00:46:27.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Dungeons Mod]
+[13Jul2025 00:53:57.898] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED 9ae3795b-4a18-4f74-97c6-360448da444b
+[13Jul2025 00:54:22.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TerroncitoTroll> a
+[13Jul2025 00:57:08.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-747, y=177, z=-869} BlockPos{x=-747, y=175, z=-870}
+[13Jul2025 00:57:28.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TerroncitoTroll has made the advancement [Best Friends Forever]
